@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: install pandoc
-        run: apt-get install pandoc
+        run: sudo apt-get install pandoc
 
       # Runs a single command using the runners shell
       - name: Convert *.md to export/*.pdf
