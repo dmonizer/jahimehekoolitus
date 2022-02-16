@@ -29,7 +29,13 @@ jobs:
         run: sudo apt-get install pandoc texlive texlive-latex-extra
       
       - name: Convert *.md to export/*.pdf
-        run: bin/convert.sh
+        run: |
+          for i in $(ls *.md)
+          do
+            BASENAME=$(basename -- "$i" .md)
+            echo Converting $i ==> export/$BASENAME.pdf
+            pandoc $i -o export/$BASENAME.pdf
+          done
         
       - name: Commit exports back to repo
         run: |
