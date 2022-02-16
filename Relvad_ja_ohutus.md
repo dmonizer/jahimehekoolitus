@@ -26,7 +26,7 @@ Kindlasti tuleb kasutada kuulmiskaitseid. Võistlustel on kohustuslikud ka kaits
 
 Vintrelvi on erinevaid.  Kõige rohkem kasutatakse polt-liuglukuga vintrelva.
 
-<img title="" src="images/jahiohutus-uld.jpg" alt="" data-align="inline">
+![](images/jahiohutus-uld.jpg)
 
 #### Kuidas reguleerida vintpüssi laskja keha järgi?
 
@@ -209,3 +209,68 @@ Helisummutite kasutamine on tänapäevane jahinduse tava ja vähendab oluliselt 
 Tuntumad tootjad on BR-Tuote, aimSport, Ase-Utra, Jaki-Tuote, Saimaa Still, A-TEC, Gemtech, SilencerCo, Dead Air. 
 
 Soovitan tulistamisel alati kasutada helisummutit ja summuti soetada kohe relva ostmisel!
+
+## Tšokid
+
+Tšokk on siledaraudse relva relvaraua suudmeosas asetsev ahenev koonus mille eesmärk on haavlivihk kokku suruda et sellest relvast kaugemale tulistada. Kui
+relvaraua suudmeosa oleks täiesti silindrikujuline paiskuksid haavlid laiali
+nii, et kaugemale kui 20 m poleks võimalik tulistada sest haavlivihk muutub
+väga laiaks ja hõredaks. Tšokkidega saame jahirelvast tulistada ka 30-35 m,
+väga hea laskemoona ja valitud tšokkidega ka kuni 40 m kaugusele.
+
+![](images/tsokkide-spread.png)
+
+Kui soetate endale siledaraudse jahirelva on 2 valikut: a) soetate mobiltšokkidega
+ehk vahetatavate tšokkidega relva b) soetate fix tšokkidega ehk mittevahetatavate tšokkidega relva.
+
+### Markeeringud
+
+Kriipsukesed tähistavad tšokkide markeeringut, 1 kriipsuke on Full ehk täistšokk,
+3 kriipsu on MODIFIED ehk pooltšokk jne (vt tabel allpool)
+
+![](images/tsoki-margistus.png)
+
+**Pliihaavlite / Sport** kasutamise puhul
+
+| Nimetus        | Suudme ahenemine | Ing. keelne nimetus | Kriipsud suudmeosas |
+| -------------- | ---------------- | ------------------- | ------------------- |
+| TÄISTŠOKK      | 1,0 mm           | FULL                | I                   |
+| KOLMVEERAND    | 0,75mm           | IMP MODIFIED        | II                  |
+| POOLTŠOKK      | 0,5mm            | MODIFIED            | III                 |
+| VEERAND        | 0,25mm           | IMP CYLINDER        | IIII                |
+| SILINDER/SKEET | 0,1mm            | CYL/SKEET           | IIIII               |
+
+**Terashaavlite** kasutamisel
+
+NB! Terashaavlite kasutamise puhul ei tohi kasutada tugevamat tšokki kui pooltšokk!
+
+| Nimetus        | Ahenemine | Käitub nagu oleks |
+| -------------- | --------- | ----------------- |
+| POOLTŠOKK      | 0,5mm     | FULL              |
+| VEERAND        | 0,25mm    | MODIFIED          |
+| SILINDER/SKEET | 0,1mm     | IMP CYL           |
+
+![](images/steel-vs-lead-shots.png)
+
+### Kuidas tšokke kasutada?
+
+Pliisulamist laskemoona/haavlite puhul 
+
+* kui kasutatakse kuuli või kartetše siis tuleb valida silindertšokk või veerandtšokk.
+
+* kui soovitakse lähedale tulistada (üleshüppav metskurvits) siis kasutatakse silindertšokki.
+
+* kui soovitakse kaugele tulistada valitakse kolmveerandtšokk (0,75 mm, Imp Mod) või täistšokk (1,0 mm Full).
+
+Terashaavlite puhul saab kasutada 3 tšokki:
+silinder, veerand ja pooltšokk, viimane annab kõige tihedama vihu kaugele
+tulistamiseks.
+
+![](images/tsokk.png)
+
+### Tšokkide hooldus
+
+Tšokke tuleb regulaarselt välja keerata ja puhastada, keermeosa peab olema määritud kas spetsiaalse tšokimäärdega või kuumuskindla grafiitmäärdega. Tšokkide külg peab olema määritud õhukese kihiga täissünteetilise relvaõliga. Tavalise relvaõliga ei
+tohi tšokke määrida. Hooldamata tšokid võivad relvarauda „kinni põleda“!
+
+NB! Blaseri relvadel on tehasetšokkide markeering „tagurpidi“! 1 kriips relvaraua suudmeosas on CYL ja 5 kriipsu on FULL! Teiste tootjate Blaser-i jaoks toodetud (Müller, Extreme, Briley, Teague) aftermarket tšokkide tähistused võivad olla standardsed!
