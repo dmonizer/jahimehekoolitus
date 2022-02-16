@@ -34,7 +34,7 @@ jobs:
           do
             BASENAME=$(basename -- "$i" .md)
             echo Converting $i ==> export/$BASENAME.pdf
-            pandoc $i -o export/$BASENAME.pdf
+            pandoc $i  -V 'fontfamily:dejavu' -o export/$BASENAME.pdf
           done
         
       - name: Commit exports back to repo
