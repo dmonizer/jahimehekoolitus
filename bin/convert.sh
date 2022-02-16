@@ -2,5 +2,7 @@
 
 for i in $(ls *.md)
 do
-     pandoc $i -o export/$(basename -- "$i" .md).pdf
+     BASENAME=$(basename -- "$i" .md)
+     echo Converting $i ==> export/$BASENAME.pdf
+     pandoc $i -o export/$BASENAME.pdf
 done
