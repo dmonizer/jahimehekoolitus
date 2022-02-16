@@ -26,7 +26,7 @@ Kindlasti tuleb kasutada kuulmiskaitseid. Võistlustel on kohustuslikud ka kaits
 
 Vintrelvi on erinevaid.  Kõige rohkem kasutatakse polt-liuglukuga vintrelva.
 
-<img title="" src="http://menuk.ee/jahikursus/wp-content/uploads/2017/01/jahiohutus-uld.jpg" alt="" data-align="inline">
+<img title="" src="images/jahiohutus-uld.jpg" alt="" data-align="inline">
 
 #### Kuidas reguleerida vintpüssi laskja keha järgi?
 
@@ -86,7 +86,7 @@ Tühjaks laadimisel murtakse relv lahti ja padrun/padrunid võetakse padrunipesa
 
 ### Laskeohutus jahil/kütiliinil
 
-Enne püssi laadimist tee kindlaks, kus asuvad naaberkütid. Tee kindlaks, milline on sinu jaoks ohutu laskesuund ehk kuhu tohid tulistada, kui uluk väljub ajust. ![](http://menuk.ee/jahikursus/wp-content/uploads/2017/01/Jahiohutus-2.jpg)
+Enne püssi laadimist tee kindlaks, kus asuvad naaberkütid. Tee kindlaks, milline on sinu jaoks ohutu laskesuund ehk kuhu tohid tulistada, kui uluk väljub ajust. ![](images/Jahiohutus-2.jpg)
 
 Püssilukk on lahti niikaua, kuni jõuad kütiliinis oma kohale. Laadimiseks võta täislaaditud padrunisalv ja padrun. Pane salv püssi külge. Poolautomaatsel jahipüssil lükka üks lisapadrun üle salve padrunipessa. Lase salv natuke allapoole või vajuta salve ülemine padrun allapoole ja lükka lukk kinni. Vaata et salv oleks fikseeritud asendis. Püss on vinnastatud, laetud. Pane relv kaitseriivi.
 
@@ -176,11 +176,11 @@ Siledaraudset relva on hõlbus puhastada universaalse puhastusvahendi Brunox ja 
 
 Helisummuteid kasutatakse laialdaselt jahinduses Soomes, Rootsis, Norras, USA-s, Ühendkuningriikides, Saksamaal ja Lätis. Alates **01.07.2018** on helisummutite kasutamine jahipidamisel lubatud ka Eestis. Eesti sportlaskurid on lasketiirudes ja spordivõistlustel kasutanud helisummuteid juba aastaid. 
 
-![](C:\Users\p998eis\AppData\Roaming\marktext\images\2022-02-16-16-09-23-image.png)
+![](images/summutiga-vintrelv.png)
 
 Helisummutid kinnitatakse relvaraua keermestatud suudmeosa külge standard-keermetega (M14x1, M15x1 jne).  Helisummutid võivad erineda suuruse ja pikkuse  (suuremaid, pikemad, kogu raua pikkuseid, kompaktsemaid), materjali (teras, titaan, alumiinium) ja konstruktsiooni poolest: vintraua suudmeossa paigaldatud ja raua peale paigaldatud nn „reflex“ tüüpi. 
 
-![](C:\Users\p998eis\AppData\Roaming\marktext\images\2022-02-16-16-09-41-image.png)
+![](images/summuti-ehitus.png)
 
 Tööpõhimõte on aga kõigil summutitel sama: helisummuti vähendab tulistamisel tekkivate püssirohugaaside rõhku, kuul toimib summutit läbides nagu liikuv klapp mis suunab enda taga liikuvad gaasid kambritesse, vabastades kambritest järjest gaase vähendatud kiiruse ja pikema aja jooksul. 
 
