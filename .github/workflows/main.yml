@@ -24,13 +24,18 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-
-      # Runs a single command using the runners shell
+      
       - name: install pandoc
-        run: sudo apt-get install pandoc
-
-      # Runs a single command using the runners shell
+        run: sudo apt-get install pandoc texlive-latex-base
+      
       - name: Convert *.md to export/*.pdf
         run: bin/convert.sh
+        
+      - name: Commit exports back to repo
+        run: |
+          git config --global user.name 'Github action'
+          git config --global user.email 'github-action@users.noreply.github.com'
+          git commit -am "converted files"
+          git push        
 
       
