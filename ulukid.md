@@ -1,15 +1,18 @@
 # Ulukid
+
 Ulukiks nimetatakse metslooma, looduses vabalt elavat imetajat või lindu. Jahiulukiks nimetatakse ulukit, kelle liha, nahka või muid osi tarbitakse ning kelle jahtimine on jahieeskirjadega lubatud.
 
 Vastavalt jahiseadusele eristatakse jahiulukite hulgas suurulukeid ja väikeulukeid ning jahilinde.
 
 ## Suurulukid
 
+![](ulukid/ursus_arctos.jpg)
+
 ### Pruunkaru, Ursus arctos
 
 Eesti metsade suurim kiskja. Meil elavad karud kuuluvad keskmist mõõtu rassi, kaal 90 – 340 kg. Rekordkolju 67.46 CIC punkti (Balti rekord, maailma edetabelis 10. koht).
 
-##### Välimus
+#### Välimus
 
 Suur, tugev, kohmakas loom, keda katab pikk ja tihe karvastik. Eriti pikad karvad kasvavad turjal, sabajupp on karvade sees peidus. Karvastiku värvus varieerub pruunikaskollasest mustjaspruunini.
 
@@ -21,7 +24,7 @@ Karu suuruse üle võib otsustada eeskäpa kämblapäka laiuse järgi: 5–6,5 c
 
 Eluiga ei ületa reeglina 30–35 aastat.
 
-##### Sigimine
+#### Sigimine
 
 Jooksuaeg kestab mai keskpaigast juuni keskpaigani. Esimesel innaajal viljastamata jäänud emakarudel võib olla järeljooksuaeg. Tiinus kestab 195–225 päeva. Pojad sünnivad enamasti jaanuaris.
 
@@ -29,7 +32,7 @@ Vastsündinud on väga pisikesed, abitud, pimedad ja kõrvad kilega kaetud, kaal
 
 Noorel emakarul 1–2, vanemal 2–3 poega, harva kuni 5. Suguküpseks saavad 3-aastaselt, poegivad esmakordselt 4–5 aastaselt, järeltulijad sünnivad üle aasta.
 
-##### Toitumine
+#### Toitumine
 
 Karu on omnivoor. Mida põhjapool, seda suuremad kiskjakalduvused. Pärast ärkamist suundub rabale, lootes leida mulluseid jõhvikaid. Sobivaks toiduks ka korjused. Kui õnnestub, murtakse mõni suur loom, kes peidetakse risuhunniku alla laagerdamiseks.
 
@@ -39,11 +42,23 @@ Aastal 2008 kütiti 37, 2009. a 45, 2010. a 57
 
 Allikas: Tiit Randveer. Jahiraamat. 2003
 
+#### Jahipidamine
+
+Karu on jahiuluk, tema küttimise korraldamiseks teeb Jahindusnõukogu ettepanekud Keskkonnaametile kes kehtestab igal aastal küttimismahu.
+
+Karu võib tulistada ainult kuuliga, vintraudse püssi korral peab kaliiber olema vähemalt 6,5mm ja kuuli kaal vähemalt 9 grammi.
+
+Karule, välja arvatud poegadega emakarule, võib pidada varitsus- või hiilimisjahti **1. augustist 31. oktoobrini** karu tekitatud kahjustuste piirkonnas kahjustuste vältimise eesmärgil.
+
+-------
+
+![](ulukid/canis_lupus_europe.jpg)
+
 ### Hunt, Canis lupus
 
 Eesti metsade kõige kardetum kiskja. Suurim kütitud hunt kaalus 82 kg.
 
-##### Välimus
+#### Välimus
 
 Väga sarnane suure hundikoeraga. Hundil on koeraga võrreldes massiivsem rind ja kael ning tugevamad jalad. Hundi suur pea on pisut ettepoole suunatud kolmnurksete kõrvadega. Saba hoiab hunt seljaga ühel joonel või langetatuna, kusjuures saba tipp võib olla tõstetud. Pead hoiab ta rahulikus olekus seljaga enam-vähem ühel joonel.
 
@@ -57,7 +72,7 @@ Hundi jälgi on võrdlemisi raske koera omast eristada. Hundi jälg on pikerguse
 
 Jälje pikkuse ja laiuse suhe isashundil 1,3 ja emashundil 1,5. Uriinilaik paikneb isasloomal jäljerea kürval, emasloomal aga jäljereal.
 
-##### Sigimine
+#### Sigimine
 
 Hunt on monogaamne loom, paarid püsivad ühe paarilise surmani, väga väikese asustustiheduse korral esineb ka polüseemiat. Jooksuaeg Eestis on jaanuari lõpul-veebruaris. Karjas valitseb nii kõva kord, et võimuastmestikus madalamal olevad dominantse isasega reeglina kaklust ei alusta.
 
@@ -65,7 +80,7 @@ Tiinus vältab 62–75 päeva, pojad sünnivad enamasti aprillis, paikseks jää
 
 Pesakonnas keskmiselt 4–7 (kuni 15) kutsikat, kelle ellujäämine sõltub toiduküllusest. Emasloom ei lahku kolme nädala jooksul pesast, isasloom toob toidu. Nägijaks saavad kutsikad 9–12 päevaselt. Emased saavutavad suguküpsuse teisel, isasel kolmandal eluaastal.
 
-##### Toitumine
+#### Toitumine
 
 Tähtsaim toiduobjekt sõralised. Tähtsuselt teisel kohal jänesed, ka kobras kõlbab söögiks. Pisinärilised on ka oluline toiduallikas (eriti hiired kevadel).
 
@@ -74,6 +89,42 @@ Kiskjalistest toitub põhiliselt rebasest ja kährikust, kärplastele kõlbavad 
 Aastal 2008 kütiti 156, 2009. a 103, 2010. a 130
 
 Allikas: Tiit Randveer. Jahiraamat. 2003
+
+#### Jahipidamine
+
+Hunt on jahiuluk, tema küttimise korraldamiseks teeb Jahindusnõukogu ettepanekud Keskkonnaametile kes kehtestab igal aastal küttimismahu.
+
+Hundile võib pidada peibutus- või varitsus- või hiilimis- või ajujahti ning jahti piirdelippe ja jahikoera kasutades **1. novembrist jahiaasta lõpuni**.
+
+### Ilves, Felis lynx
+
+Eestis ainus paikselt looduses elav kaslane. Kaalub keskmiselt 20 – 25 kg. Erinevate teadlaste andmetel sööb aastas 40-80 metskitse. Rekordkolju 28.99 CIC punkti (maailma edetabelis 2. koht) rekordnahk 214.84 CIC punkti-maailmarekord.
+
+#### Välimus
+
+Suur kass, värvus varieerub kollakashallist roostepunaseni. Pea, selg, küljed ja jalgade välisküljed on kõigil tumedamad ja üldisest värvusest eristuvate tumedamate tähnidega. Iseloomulikud tunnused on u 5 cm pikkused karvatutid kõrvade tipus ja “põskhabe”, mille suurust arvestatakse trofeenahkade hindamisel.
+
+Küünised on sissetõmmatavad nagu kassil. Eesti ilvese tüvepikkus varieerub vahemikus 80–115 cm, sabapikkus 15–20 cm, õlakõrgus 65–75 cm. Kehakaal 10–20 kg, vanadel isasloomadel kuni 32 kg-ni.
+
+#### Sigimine
+
+Jooksuaeg veebruaris märtsis. Üht emaslooma võib jälitada kuni 5 isast. Emasloom on paaritumisvalmis 3 päeva, tiinus kestab 63–74 päeva. Järeltulijaid on 1–6, enamasti 2–3, sünnivad tavaliselt mais, kaaludes u 300 g, 12 päevaselt saavad nägijaks. Kaks kuud toituvad emapiimast, pojad jäävad esimese eluaasta lõpuni ema juurde. Suguküpseks saavad kaheaastaselt.
+
+#### Toitumine
+
+Ilves sööb vaid lihatoitu, põhilisteks saakloomadeks on valgejänes, metskits, rebased, kährikud, närilised ja kanalised. Ilves peab varitsusjahti. Hiilib kümnekonna meetri kauguselt teeb paar hüpet, mittetabamise korral saaki edasi ei jälitada.
+
+Päevane toiduvajadus on 1–1,5 kg, seega peaks ühest metskitsest paariks nädalaks jätkuma, aga ilves üle paari korra saagi juurde tagasi ei pöördu ja ei söö lehkama läinud liha. Võib ühe ööga mitu metskitse murda.
+
+2008 kütiti 150, 2009 184, 2010 181 ilvest
+
+Allikas: Tiit Randveer. Jahiraamat. 2003
+
+#### Jahipidamine
+
+Ilves on jahiuluk, tema küttimise korraldamiseks teeb Jahindusnõukogu ettepanekud Keskkonnaametile kes kehtestab igal aastal küttimismahu.
+
+Ilvesele, välja arvatud kutsikatega emailvesele, võib pidada peibutus- või varitsus- või hiilimis- või ajujahti ning jahti jahikoeraga **1. detsembrist jahiaasta lõpuni**.
 
 ### Põder, Alces alces
 
@@ -105,11 +156,25 @@ Aastal 2008 kütiti 4133, 2009. a 4031, 2010. a 4255 põtra.
 
 Allikas: Tiit Randveer. Jahiraamat. 2003
 
+#### Jahipidamine
+
+Põdrale võib jahti pidada:
+
+* 15. septembrist 15. detsembrini 
+  * **pullile** varitsus- või hiilimis- või peibutusjahti
+
+* 1. oktoobrist 15. detsembrini 
+  * ajujahti ja jahti jahikoeraga<sup>1</sup>
+  
+  * **lehmale** ja **vasikale** varitsus- või hiilimis- või peibutus- või ajujahti.
+
+<sup>1</sup> - välja arvatud FCI 6. rühma kuuluva jahikoeraga, kelle tõustandardis kinnitatud maksimaalne turjakõrgus on üle 52 cm
+
 ### Punahirv, Cervus elaphus
 
 Punahirve sarvekrooni seinale ihkab endale vist iga Eesti jahimees. Hirv on levinud peamiselt Hiiu- ja Saaremaal. 
 
-##### Välimus
+#### Välimus
 
 Hirv on välimuse poolest kuninglik loom. Suuruselt metskitse ja põdra vahepealne. Hirvede kehasuuruses väljendub sooline dimorfism. Pullid kaaluvad 160–200 kg, harva kuni 300, lehmad sadakond kilo. Tüvepikkus on kuni 230 cm, õlakõrgus 120–150 cm.
 
@@ -117,7 +182,7 @@ Isaslooma ehivad sarved, mis heidetakse enamasti märtsis. Esimesed sarved hakka
 
 Eluiga ulatub kuni 20 eluaastani. Hammaste kulumise järgi määratakse vanus. Hirvepulli välimus muutub elu jooksul üsna oluliselt. Isaslooma jälg on 11×8 cm, emastel ja noortel väiksem.
 
-##### Sigimine
+#### Sigimine
 
 Jooksuaeg on septembris ja oktoobri alguses. End suvel nuumanud pullid kaotavad ettevaatlikkuse. Välimus muutub: sarved on kasvanud ja nahast puhastunud, kael muutub jämedamaks ja ilmub tumedamatest karvadest lakk, lõhnanäärmed aktiviseeruvad. Pullidel on võimas möire.
 
@@ -130,6 +195,21 @@ Põhilise osa toidust moodustavad rohu- ja puhmarinde taimed. Hirv hangib toitu 
 Aastal 2008 kütiti 300, 2009. a 403, 2010. a 497
 
 Allikas: Tiit Randveer. Jahiraamat. 2003
+
+#### Jahipidamine
+
+Punahirvele võib jahti pidada:
+
+* 15. augustist 15. veebruarini, sealhulgas:  
+  * 1. septembrist 15. veebruarini pullile varitsus- või hiilimis- või peibutusjahti 
+  
+  * 1. oktoobrist 15. veebruarini ajujahti ja jahti jahikoeraga<sup>1</sup>
+  
+  * 15. augustist 31. jaanuarini lehmale ja vasikale varitsus- või hiilimis- või peibutusjahti 
+  
+  * 1. oktoobrist 31. jaanuarini ajujahti ja jahti jahikoeraga<sup>1</sup>
+  
+  <sup>1</sup> - välja arvatud FCI 6. rühma kuuluva jahikoeraga, kelle tõustandardis kinnitatud maksimaalne turjakõrgus on üle 52 cm
 
 ### Metssiga, Sus scrofa
 
@@ -161,6 +241,14 @@ Metssead on omnivoorid e kõigesööjad. Ööpäevane toidukogus on kuni 6 kg. V
 
 Allikas: Tiit Randveer. Jahiraamat. 2003
 
+#### Jahipidamine
+
+Metsseale võib pidada:  
+
+* aasta ringi varitsus- või hiilimis- või ajujahti;  
+* 1. oktoobrist 31. märtsini jahti jahikoeraga, välja arvatud FCI 6. rühma kuuluva jahikoeraga, kelle tõustandardis kinnitatud maksimaalne turjakõrgus on üle 52 cm;  
+* jahti püünisaeda kasutades Keskkonnaameti määratud juhtudel.
+
 ### Metskits, Capreolus capreolus
 
 Eestis kõige arvukam sõraline. Metskitsede arvukus on praegu heas seisus. Siinsete isendite keskmine kehakaal on 25-30 kg. 
@@ -189,31 +277,24 @@ Suvises toidus on esikohal rohttaimed, lehtpuuvõrsed ja lehed; talvel eelistab 
 
 Allikas: Tiit Randveer. Jahiraamat. 2003
 
-### Ilves, Felis lynx
+#### Jahipidamine
 
-Eestis ainus paikselt looduses elav kaslane. Kaalub keskmiselt 20 – 25 kg. Erinevate teadlaste andmetel sööb aastas 40-80 metskitse. Rekordkolju 28.99 CIC punkti (maailma edetabelis 2. koht) rekordnahk 214.84 CIC punkti-maailmarekord.
+Metskitsele võib jahti pidada 1. juunist 31. jaanuarini, sealhulgas:
 
-#### Välimus
+* sokule
+  
+  * 1. juunist 31. jaanuarini varitsus- või hiilimis- või peibutusjahti 
 
-Suur kass, värvus varieerub kollakashallist roostepunaseni. Pea, selg, küljed ja jalgade välisküljed on kõigil tumedamad ja üldisest värvusest eristuvate tumedamate tähnidega. Iseloomulikud tunnused on u 5 cm pikkused karvatutid kõrvade tipus ja “põskhabe”, mille suurust arvestatakse trofeenahkade hindamisel.
+* kitsele või tallele 
+  
+  * 1. septembrist 31. jaanuarini varitsus- või hiilimisjahti  
 
-Küünised on sissetõmmatavad nagu kassil. Eesti ilvese tüvepikkus varieerub vahemikus 80–115 cm, sabapikkus 15–20 cm, õlakõrgus 65–75 cm. Kehakaal 10–20 kg, vanadel isasloomadel kuni 32 kg-ni.
-
-#### Sigimine
-
-Jooksuaeg veebruaris märtsis. Üht emaslooma võib jälitada kuni 5 isast. Emasloom on paaritumisvalmis 3 päeva, tiinus kestab 63–74 päeva. Järeltulijaid on 1–6, enamasti 2–3, sünnivad tavaliselt mais, kaaludes u 300 g, 12 päevaselt saavad nägijaks. Kaks kuud toituvad emapiimast, pojad jäävad esimese eluaasta lõpuni ema juurde. Suguküpseks saavad kaheaastaselt.
-
-#### Toitumine
-
-Ilves sööb vaid lihatoitu, põhilisteks saakloomadeks on valgejänes, metskits, rebased, kährikud, närilised ja kanalised. Ilves peab varitsusjahti. Hiilib kümnekonna meetri kauguselt teeb paar hüpet, mittetabamise korral saaki edasi ei jälitada.
-
-Päevane toiduvajadus on 1–1,5 kg, seega peaks ühest metskitsest paariks nädalaks jätkuma, aga ilves üle paari korra saagi juurde tagasi ei pöördu ja ei söö lehkama läinud liha. Võib ühe ööga mitu metskitse murda.
-
-2008 kütiti 150, 2009 184, 2010 181 ilvest
-
-Allikas: Tiit Randveer. Jahiraamat. 2003
+* 1. oktoobrist 31. jaanuarini ajujahti ja jahti jahikoeraga<sup>1</sup>
+  
+  <sup>1</sup> - FCI 3. ja 4. rühma kuuluv
 
 ### Hallhüljes
+
 Põdra, pruunkaru, punahirve, metssea ja **hallhülge** küttimisel võib kasutada ainult kuuli ja vintraudse püssiga peab vintraua kaliiber olema vähemalt 6,5 millimeetrit ning padrunis kasutatava kuuli kaal vähemalt 9,0 grammi.
 
 ## Väikeulukid
