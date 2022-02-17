@@ -437,6 +437,12 @@ Urujaht keelatud 10 või rohkema urusuudmega urusüsteemi alal. Jahipidamisel la
 
 Kobras on üks suuremaid närilisi. Tegemist on põlisasukaga, kes üleküttimise tagajärjel meil kadus. Uuesti istutati koprad Eestisse 1957. aastal. Praeguseks on kobras levinud üle riigi isegi saartele, arvukus on suur. Praegu tekitab kobras üle-Eesti metsadele, põldudele märkimisväärset kahju.
 
+#### Piirangud
+
+Hiilimis- või varitsus-koprajahil vibuga peab nool olema kinnitatud vibu külge nööriga
+
+
+
 #### Jahipidamine
 
 * 1. augustist 15. märtsini jaht mõrraga, piirdevõrguga, püünisrauaga või FCI 3. ja 4. rühma kuuluva jahikoeraga 

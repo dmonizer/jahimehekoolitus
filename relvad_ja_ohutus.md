@@ -1,6 +1,6 @@
 # Relvad ja ohutus
 
-(algmaterjal [www.ejs.ee](http://www.ejs.ee), Kaupo Kindsigo, suurmeister, Eesti Jahimeeste Seltsi koostööpartner)
+(algmaterjal [www.ejs.ee](http://www.ejs.ee) ja Kaupo Kindsigo, suurmeister, Eesti Jahimeeste Seltsi koostööpartner)
 
 #### Relva osad
 
@@ -25,6 +25,8 @@ Kindlasti tuleb kasutada kuulmiskaitseid. Võistlustel on kohustuslikud ka kaits
 ### Vintrelv
 
 Vintrelvi on erinevaid.  Kõige rohkem kasutatakse polt-liuglukuga vintrelva.
+
+
 
 ![](images/jahiohutus-uld.jpg)
 
@@ -86,7 +88,9 @@ Tühjaks laadimisel murtakse relv lahti ja padrun/padrunid võetakse padrunipesa
 
 ### Laskeohutus jahil/kütiliinil
 
-Enne püssi laadimist tee kindlaks, kus asuvad naaberkütid. Tee kindlaks, milline on sinu jaoks ohutu laskesuund ehk kuhu tohid tulistada, kui uluk väljub ajust. ![](images/Jahiohutus-2.jpg)
+Enne püssi laadimist tee kindlaks, kus asuvad naaberkütid. Tee kindlaks, milline on sinu jaoks ohutu laskesuund ehk kuhu tohid tulistada, kui uluk väljub ajust. 
+
+![](images/Jahiohutus-2.jpg)
 
 Püssilukk on lahti niikaua, kuni jõuad kütiliinis oma kohale. Laadimiseks võta täislaaditud padrunisalv ja padrun. Pane salv püssi külge. Poolautomaatsel jahipüssil lükka üks lisapadrun üle salve padrunipessa. Lase salv natuke allapoole või vajuta salve ülemine padrun allapoole ja lükka lukk kinni. Vaata et salv oleks fikseeritud asendis. Püss on vinnastatud, laetud. Pane relv kaitseriivi.
 
