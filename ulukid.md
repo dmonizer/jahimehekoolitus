@@ -8,7 +8,7 @@ Vastavalt jahiseadusele eristatakse jahiulukite hulgas suurulukeid ja väikeuluk
 
 ![](ulukid/ursus_arctos.jpg)
 
-### Pruunkaru, Ursus arctos
+### Pruunkaru (Ursus arctos)
 
 Eesti metsade suurim kiskja. Meil elavad karud kuuluvad keskmist mõõtu rassi, kaal 90 – 340 kg. Rekordkolju 67.46 CIC punkti (Balti rekord, maailma edetabelis 10. koht).
 
@@ -54,7 +54,7 @@ Karule, välja arvatud poegadega emakarule, võib pidada varitsus- või hiilimis
 
 ![](ulukid/canis_lupus_europe.jpg)
 
-### Hunt, Canis lupus
+### Hunt (Canis lupus)
 
 Eesti metsade kõige kardetum kiskja. Suurim kütitud hunt kaalus 82 kg.
 
@@ -96,7 +96,11 @@ Hunt on jahiuluk, tema küttimise korraldamiseks teeb Jahindusnõukogu ettepanek
 
 Hundile võib pidada peibutus- või varitsus- või hiilimis- või ajujahti ning jahti piirdelippe ja jahikoera kasutades **1. novembrist jahiaasta lõpuni**.
 
-### Ilves, Felis lynx
+---------------
+
+![](ulukid/lynx.jpg)
+
+### Ilves (Felis lynx)
 
 Eestis ainus paikselt looduses elav kaslane. Kaalub keskmiselt 20 – 25 kg. Erinevate teadlaste andmetel sööb aastas 40-80 metskitse. Rekordkolju 28.99 CIC punkti (maailma edetabelis 2. koht) rekordnahk 214.84 CIC punkti-maailmarekord.
 
@@ -126,7 +130,11 @@ Ilves on jahiuluk, tema küttimise korraldamiseks teeb Jahindusnõukogu ettepane
 
 Ilvesele, välja arvatud kutsikatega emailvesele, võib pidada peibutus- või varitsus- või hiilimis- või ajujahti ning jahti jahikoeraga **1. detsembrist jahiaasta lõpuni**.
 
-### Põder, Alces alces
+--------------
+
+![](ulukid/moose.jpg)
+
+### Põder (Alces alces)
 
 Läbi aegade hinnatuim jahiuluk Eestis. Meie metsade suurim loom. Kütitud on enam kui pool tonni kaalunud põdrapulle. 
 
@@ -170,7 +178,11 @@ Põdrale võib jahti pidada:
 
 <sup>1</sup> - välja arvatud FCI 6. rühma kuuluva jahikoeraga, kelle tõustandardis kinnitatud maksimaalne turjakõrgus on üle 52 cm
 
-### Punahirv, Cervus elaphus
+---------
+
+![](ulukid/cervus_elaphus.jpg)
+
+### Punahirv (Cervus elaphus)
 
 Punahirve sarvekrooni seinale ihkab endale vist iga Eesti jahimees. Hirv on levinud peamiselt Hiiu- ja Saaremaal. 
 
@@ -211,7 +223,11 @@ Punahirvele võib jahti pidada:
   
   <sup>1</sup> - välja arvatud FCI 6. rühma kuuluva jahikoeraga, kelle tõustandardis kinnitatud maksimaalne turjakõrgus on üle 52 cm
 
-### Metssiga, Sus scrofa
+-------------------
+
+![](ulukid/sus_scrofa.jpg)
+
+### Metssiga (Sus scrofa)
 
 Metssiga jõudis Eestisse 20. sajandi 20nendatel aastatel. Praegusel ajal levinud kõikjal üle riigi. Meil kütitud metssigade kaal on tavaliselt 50 – 150 kg. Suurim kütitud kult kaalus 350 kg, emis 300 kg. 
 
@@ -249,7 +265,11 @@ Metsseale võib pidada:
 * 1. oktoobrist 31. märtsini jahti jahikoeraga, välja arvatud FCI 6. rühma kuuluva jahikoeraga, kelle tõustandardis kinnitatud maksimaalne turjakõrgus on üle 52 cm;  
 * jahti püünisaeda kasutades Keskkonnaameti määratud juhtudel.
 
-### Metskits, Capreolus capreolus
+-------------
+
+![](ulukid/capreolus_capreolus.jpg)
+
+### Metskits (Capreolus capreolus)
 
 Eestis kõige arvukam sõraline. Metskitsede arvukus on praegu heas seisus. Siinsete isendite keskmine kehakaal on 25-30 kg. 
 
@@ -293,52 +313,171 @@ Metskitsele võib jahti pidada 1. juunist 31. jaanuarini, sealhulgas:
   
   <sup>1</sup> - FCI 3. ja 4. rühma kuuluv
 
-### Hallhüljes
+---------
 
-Põdra, pruunkaru, punahirve, metssea ja **hallhülge** küttimisel võib kasutada ainult kuuli ja vintraudse püssiga peab vintraua kaliiber olema vähemalt 6,5 millimeetrit ning padrunis kasutatava kuuli kaal vähemalt 9,0 grammi.
+![](ulukid/halichoerus_grypus.jpg)
+
+### Hallhüljes (Halichoerus grypus)
+
+#### Jahipidamine
+
+Hallhülge küttimisel võib kasutada ainult kuuli ja vintraudse püssiga peab vintraua kaliiber olema vähemalt 6,5 millimeetrit ning padrunis kasutatava kuuli kaal vähemalt 9,0 grammi.
+
+Varitsus- või hiilimisjahti võib pidada **15. aprillist kuni 31. detsembrini.**
+
+------------------------
 
 ## Väikeulukid
 
-### Rebane, Vulpes vulpes
+### Rebane (Vulpes vulpes)
 
 Rebane on levinud kogu Eesti mandrialal ja saartel, esineb ka väikestel laidudel ja saarekestel nii ajutiselt kui ka alaliselt. Rootsi teadlaste uurimistulemused näitavad, et liiga kõrge rebase arvukuse puhul on nad kohati võimelised hävitama 100% metskitse juurdekasvust. Rebane on marutaudi levitaja.
 
+#### Jahipidamine
+
+* 1. augustist 31. märtsini peibutus- või varitsus- või hiilimisjaht ning jaht kastlõksuga  
+* 1. oktoobrist jahiaasta lõpuni uru- või ajujaht ning jaht jahikoeraga või piirdelippe kasutades 
+
+-----------
+
+
+
 ### Šaakal, (Canis aureus)
 
-### Kährikkoer, Nyctereutes procyonoides
+#### Jahipidamine
+
+* 1. septembrist jahiaasta lõpuni peibutus- või varitsus- või hiilimis- või ajujaht ning jaht piirdelippe kasutades 
+* 1. oktoobrist jahiaasta lõpuni jaht jahikoeraga 
+
+----
+
+
+
+### Kährik (Nyctereutes procyonoides)
 
 Eestis võõrliik. Esimesed kährikud lasti meil lahti 1950. aastal suure, üle Nõukogude Liidu toimunud, kampaania käigus. Praeguseks ulatub kähriku levila Euroopas Prantsusmaani. Kährik on halastamatu murdja, kes hävitab oma lähikonnas kõik, kellest jõud üle käib. Samuti levitab ta marutaudi. Kuna on tegemist võõrliigiga, tuleks tema arvukus meil nullilähedaseks viia.
 
-### Mink, Mustela vison
+#### Jahipidamine
+
+* aasta ringi peibutus- või varitsus- või hiilimisjaht ning jaht kastlõksuga
+* 1. oktoobrist jahiaasta lõpuni uru- või ajujaht ning jaht jahikoeraga või piirdelippe kasutades 
+
+----
+
+
+
+### Mink (Mustela vison)
 
 Eestis võõrliik. Populatsioon tekkis karusloomafarmidest metsa põgenenud isenditest. Tänu ristumisele kohaliku – euroopa naaritsaga on euroopa naarits meil välja surnud. Kuna tegemist on võõrliigiga ja kuna ta murrab rohkem, kui ta ära jõuab süüa, tuleks tema arvukus viia nullilähedale
 
-### Tuhkur, Mustela putorius
+#### Jahipidamine
+
+* aasta ringi varitsus- või hiilimisjaht või jaht kastlõksuga
+* 1. oktoobrist jahiaasta lõpuni jaht jahikoeraga 
+
+----
+
+
+
+### Tuhkur (Mustela putorius)
 
 Tuhkur on väga laialt levinud väikekiskja. Tegutseb enamasti kultuurmaastikul ja veekogude kaldaalal. Kipub teinekord rüüstama kanalaid. Näriliste hävitajana on ta kahtlemata looduskeskonnas kasulik uluk.
 
-### Metsnugis, Martes martes
+#### Jahipidamine
+
+* 1. oktoobrist 31. märtsini jaht püünisrauaga puult või ehitisest, jaht kastlõksuga, varitsus- või hiilimisjaht
+* 1. oktoobrist jahiaasta lõpuni jaht jahikoeraga 
+
+---
+
+
+
+### Metsnugis (Martes martes)
 
 Metsnugis kui väärtusliku karusnahaga liik on olnud hinnaline jahiobjekt juba ammustest aegadest peale. Meil on nugis levinud üle kogu vabariigi. Kuna tema toiduratsiooni kuuluvad ka valgejänes, teder, laanepüü ja metsis on nugise mõju liiga suure arvukuse puhul nendele liikidele tuntav
 
-### Kivinugis, Martes foina
+#### Jahipidamine
 
-### Mäger, Meles meles
+* 1. oktoobrist 31. märtsini jaht püünisrauaga puult või ehitisest, jaht kastlõksuga, varitsus- või hiilimisjaht
+* 1. oktoobrist jahiaasta lõpuni jaht jahikoeraga 
+
+---
+
+
+
+### Kivinugis (Martes foina)
+
+#### Jahipidamine
+
+* 1. oktoobrist 31. märtsini jaht püünisrauaga puult või ehitisest, jaht kastlõksuga, varitsus- või hiilimisjaht
+* 1. oktoobrist jahiaasta lõpuni jaht jahikoeraga 
+
+---
+
+
+
+### Mäger (Meles meles)
 
 Mäger on levinud Eesti mandrialal kõikjal, kus on tingimused urgude ehitamiseks. Samuti viidi ta 1960. aastal Saaremaale. Mäger on meie uruelanikest-imetajatest ainuke, kes on urgudega seotud aastaringselt.
 
-### Kobras, Castor fiber
+#### Piirangud
+
+Urujaht keelatud 10 või rohkema urusuudmega urusüsteemi alal. Jahipidamisel lahti kaevatud urud tuleb jahi lõppedes kinni ajada.
+
+#### Jahipidamine
+
+* 1. septembrist jahiaasta lõpuni varitsus- või hiilimisjaht või jaht kastlõksuga 
+* 1. oktoobrist jahiaasta lõpuni uru- või ajujaht ning jaht jahikoeraga 
+
+---
+
+
+
+### Kobras (Castor fiber)
 
 Kobras on üks suuremaid närilisi. Tegemist on põlisasukaga, kes üleküttimise tagajärjel meil kadus. Uuesti istutati koprad Eestisse 1957. aastal. Praeguseks on kobras levinud üle riigi isegi saartele, arvukus on suur. Praegu tekitab kobras üle-Eesti metsadele, põldudele märkimisväärset kahju.
 
-### Ondatra, Ondatra zibethicus
+#### Jahipidamine
+
+* 1. augustist 15. märtsini jaht mõrraga, piirdevõrguga, püünisrauaga või FCI 3. ja 4. rühma kuuluva jahikoeraga 
+* 1. oktoobrist jahiaasta lõpuni jaht jahikoeraga
+* 1. augustist 15. aprillini varitsus- või hiilimisjaht või kopra välja püük FCI 3. ja 4. rühma kuuluva jahikoeraga 
+* aasta ringi kopra tekitatud kahjustuste korral varitsus- või hiilimisjahina või koprapüügina FCI 3. ja 4. rühma kuuluva jahikoeraga Keskkonnaameti loal.
+
+---
+
+
+
+### Ondatra (Ondatra zibethicus)
 
 Eestis võõrliik. Meile istutati ondatra 1947. Seitsmekümnendatel ulatus nende arvukus kuni 50 000 isendini. Tänaseks on ta ilmselt tänu mingile Eestist praktiliselt kadunud.
 
-### Halljänes, Lepus europaeus
+#### Jahipidamine
+
+* 1. oktoobrist jahiaasta lõpuni jaht mõrraga, piirdevõrguga või varitsus- või hiilimisjaht.
+
+---
+
+
+
+### Halljänes (Lepus europaeus)
 
 Halljänes on kultuurmaastike loom. Sügavas metsas halljänes ei elune. Peamiseks vaenlaseks on rebane.
 
-### Valgejänes, Lepus timidus
+#### Jahipidamine
+
+* 1. oktoobrist jahiaasta lõpuni jaht FCI 3., 4., 6. ja 10. rühma kuuluva jahikoeraga.
+
+---
+
+
+
+### Valgejänes (Lepus timidus)
 
 Eestis laialt levinud jäneseliik. Elab peamiselt metsas ja soos. Kohati tänu ilveste rohkusele on valgejänese arvukus langenud väga madadalale.
+
+#### Jahipidamine
+
+* 1. oktoobrist jahiaasta lõpuni jaht FCI 3., 4., 6. ja 10. rühma kuuluva jahikoeraga.
+
+---
