@@ -26,16 +26,25 @@ jobs:
       - uses: actions/checkout@v2
       
       - name: install pandoc
-        run: sudo apt-get install pandoc texlive-full
+        run: sudo apt-get install pandoc texlive texlive-latex-extra texlive-fonts-extra
       
       - name: Convert *.md to export/*.pdf
-        run: bin/convert.sh
+        run: |
+          for i in $(ls *.md)
+          do
+            BASENAME=$(basename -- "$i" .md)
+            echo Converting $i ==> export/$BASENAME.pdf
+            pandoc $i  -V 'fontfamily:dejavu' -o export/$BASENAME.pdf
+          done
         
       - name: Commit exports back to repo
         run: |
           git config --global user.name 'Github action'
           git config --global user.email 'github-action@users.noreply.github.com'
+          git status
+          git add export/
           git commit -am "converted files"
+          git status
           git push        
 
       
