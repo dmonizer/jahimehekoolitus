@@ -26,8 +26,6 @@ Kindlasti tuleb kasutada kuulmiskaitseid. Võistlustel on kohustuslikud ka kaits
 
 Vintrelvi on erinevaid.  Kõige rohkem kasutatakse polt-liuglukuga vintrelva.
 
-
-
 ![](images/jahiohutus-uld.jpg)
 
 #### Kuidas reguleerida vintpüssi laskja keha järgi?
@@ -55,6 +53,10 @@ Optilise sihiku suurendus: Jahil ei kasutata väga suuri suurendusi, tavaliselt 
 #### Päästikutehnika
 
 Laskmisel on väga oluline päästmise sujuvus ehk päästikutehnika. Päästmine on sujuv protsess algusest lõpuni ning võiks kesta umbes poolteist sekundit. Päästikut ei tohi rabada ega tõmmata. Mida sujuvam on päästmine, seda täpsem on lask.
+
+#### Video
+
+[![Video: Laskeohutus tiirus: vintrelv](images/ohutus_tiirus_vintrelv.png "Video: Laskeohutus tiirus, vintrelv")]( https://www.youtube.com/watch?v=GVaHAHa4rBI )
 
 ### Sileraudne püss
 
@@ -86,7 +88,11 @@ Relv murtakse lingist/hoovast lahti ja padrun/padrunid asetatakse padrunipesasse
 
 Tühjaks laadimisel murtakse relv lahti ja padrun/padrunid võetakse padrunipesast välja. Relv on tühjaks laetud ja ohutu.
 
-### Laskeohutus jahil/kütiliinil
+#### Video
+
+[![Video: Laskeohutus tiirus: sileraudne](images/ohutus_tiirus_sileraudne.png "Video: Laskeohutus tiirus, sileraudne relv")]( https://www.youtube.com/watch?v=UeJDx83l2qQ )
+
+## Laskeohutus jahil/kütiliinil
 
 Enne püssi laadimist tee kindlaks, kus asuvad naaberkütid. Tee kindlaks, milline on sinu jaoks ohutu laskesuund ehk kuhu tohid tulistada, kui uluk väljub ajust. 
 
@@ -141,6 +147,10 @@ Pärast jahi lõppu veendu, et:
 * helisummuti on eemaldatud. 
 
 Autos aseta tühjakslaetud relv tühja padrunisalvega relvakotti või kohvrisse, relvasuudmega endast eemale. Nüüd võid edasi sõita.
+
+### Video
+
+[![Video: Ohutus jahil](images/ohutus_kytiliinil_thumb.png "Video: Ohutus jahil")]( https://www.youtube.com/watch?v=yo9F3QNxBME)
 
 ## Relva hooldus, puhastamine ja roostetõrje
 
