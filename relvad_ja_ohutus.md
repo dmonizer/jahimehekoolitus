@@ -36,7 +36,7 @@ Teiseks võiks optilise sihiku kõrgus olla selline, et põsk oleks kindlalt toe
 
 #### Laskeasend tiirus
 
-Laskeasend võiks olla võimalikult pingevaba. Laskur võiks olla püstiasendis. Igasugused kallutused ette või küljele pole õigustatud. Parem käsi pigistab ja haarab, tõmbab püssi korralikult vastu keha. Oluline on, et parem käsi pigistaks ja tõmbaks püssi vastu keha jõuga 10–15 kilogrammi ehk nii tugevalt, et püss hakkab peaaeagu vibreerima. Vibratsiooni korral tuleb pinget lõdvendada. Sõrm on tugevasti päästikul. Vasak käsi toetab püssi vabalt nagu kandik, sõrmed hoiavad püssi õrnalt nagu kitarrikaela.  Lasekasendis on jalad harkis veidi kitsamalt kui õlgade laius, varbad on suunatud umbes 20-kraadise nurgaga laskjast paremale (paremakäelisel laskuril). 
+Laskeasend võiks olla võimalikult pingevaba. Laskur võiks olla püstiasendis. Igasugused kallutused ette või küljele pole õigustatud. Parem käsi pigistab ja haarab, tõmbab püssi korralikult vastu keha. Oluline on, et parem käsi pigistaks ja tõmbaks püssi vastu keha jõuga 10–15 kilogrammi ehk nii tugevalt, et püss hakkab peaaeagu vibreerima. Vibratsiooni korral tuleb pinget lõdvendada. Sõrm on tugevasti päästikul. Vasak käsi toetab püssi vabalt nagu kandik, sõrmed hoiavad püssi õrnalt nagu kitarrikaela.  Laskeasendis on jalad harkis veidi kitsamalt kui õlgade laius, varbad on suunatud umbes 20-kraadise nurgaga sihtmärgist paremale (paremakäelisel laskuril). 
 
 Kui lasu sooritamiseks on aega, siis staatiliste märkide puhul võib toetada küünarnuki kehale. Laskeasend võetakse sisse ja vasaku käe küünarnukk toetatakse tugevalt vastu keha, puus lükatakse natuke ettepoole. Vasaku käe kontakt kehaga peab olema väga hea.
 
