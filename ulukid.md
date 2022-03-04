@@ -394,7 +394,10 @@ Tuhkur on väga laialt levinud väikekiskja. Tegutseb enamasti kultuurmaastikul 
 
 ### Metsnugis (Martes martes)
 
-Metsnugis kui väärtusliku karusnahaga liik on olnud hinnaline jahiobjekt juba ammustest aegadest peale. Meil on nugis levinud üle kogu vabariigi. Kuna tema toiduratsiooni kuuluvad ka valgejänes, teder, laanepüü ja metsis on nugise mõju liiga suure arvukuse puhul nendele liikidele tuntav
+Metsnugis kui väärtusliku karusnahaga liik on olnud hinnaline jahiobjekt juba ammustest aegadest peale. Meil on nugis levinud üle kogu vabariigi. Kuna tema toiduratsiooni kuuluvad ka valgejänes, teder, laanepüü ja metsis on nugise mõju liiga suure arvukuse puhul nendele liikidele tuntav. 
+
+#### Paljunemine
+Loote arengus esineb latentsusperiood.
 
 #### Jahipidamine
 
