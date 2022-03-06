@@ -15,6 +15,10 @@ Tähistus:
 Hallhanele, rabahanele, suur-laukhanele, kanada laglele ja valgepõsk-laglele võib pidada varitsus-, hiilimis- või peibutusjahti ning jahti jahikoeraga, välja arvatud FCI 6. rühma kuuluva jahikoeraga, 20. septembrist 30. novembrini, sealhulgas valgepõsk-laglele nende lindude tekitatud põllukahjustuste piirkonnas kahjustuste vältimise eesmärgil.
 
 ## Haned
+
+### Jahipidamine
+Hallhanele, rabahanele, suur-laukhanele, kanada laglele ja valgepõsk-laglele võib pidada varitsus-, hiilimis- või peibutusjahti ning jahti jahikoeraga, välja arvatud FCI 6. rühma kuuluva jahikoeraga, 20. septembrist 30. novembrini, sealhulgas valgepõsk-laglele nende lindude tekitatud põllukahjustuste piirkonnas kahjustuste vältimise eesmärgil.
+
 ### Suur-laukhani (+) 
 Noorlinnul pole valget otsmiukulauku ja tumedad kõhulaigud (triibud) puuduvad
 ![](linnud/suur-laukhani_Anser_albifrons.jpg)
@@ -49,6 +53,7 @@ Kogu pea valge (mitte ainult põsk)- kael ja rinnaesine must, kõhualune valge -
 Hästi tumeda sulestikuga (hallikaspruun), kaelal väike valge poolik võru vanalindudel.lennus kael ka must, kõht tumehall, saba valge (tiiva tagant) 
 
 # Pardid
+## Jahipidamine
 Võib pidada peibutus- või varitsus- või hiilimisjahti ning jahti jahikoeraga, välja arvatud FCI 6. rühma kuuluva jahikoeraga, ning arvukuse reguleerimise eesmärgil jahti kajakalistele kastlõksu või varesemõrraga 20. augustist 31. oktoobrini.
 
 Merel, Narva veehoidlal, Võrtsjärvel, Peipsi ja Pihkva järvel 20. augustist 30. novembrini.
@@ -157,34 +162,37 @@ kevadeti paarid natuke omaette, muul ajal suurtes salkades, kurnad üle 10 muna.
 Talvisel ajal meeldib lume sisse kaevata, sügava lumega lausa urgusid, magavad lume all.
 Lennus kanalistel iseloomulik ühine joon - lendu lähevad valju parinaga.
 Nurmkanal sabasulgede ääred roostepunakad-oranzhid
+Võib pidada otsijahti FCI 7. ja 8. rühma kuuluva jahikoeraga 1. septembrist 31. oktoobrini.
 
 ### Laanepüü (+)
 põllul ei jaluta, metsalind. eriti meeldib tiheda alusrindega/võsaga mets. hääl kõrge sagedusega viiuldamine. püüvile on just tema häälega. Üsna väike, põldpüüga enamvähem samas mõõdus - kõhualune hästi dekoratiivne, valge pruuni soomusja sulestikuga, peas väike tutt, pealt hall-pruun. Jookseb palju maapinnal, lendab üle sihtide-teede. sööb puuokstel pungi,sarapuud, kased, lepad. kõige arvukam meie kanaline
+Võib pidada peibutus- või varitsus- või hiilimisjahti ning jahti jahikoeraga, välja arvatud FCI (Fédération Cynologique Internationale) 6. rühma kuuluva jahikoeraga.
 
 ### Faasan, jahifaasan (+)
-pärit aasiast, ääretult pika saba ja kirju sulestik, nägu punane, kukal sinine, emastel ka pikk saba, helebeezh muidu. jalad sulistumata (meie kanalistel sulistunud)
+Pärit aasiast, ääretult pika saba ja kirju sulestik, nägu punane, kukal sinine, emastel ka pikk saba, helebeezh muidu. jalad sulistumata (meie kanalistel sulistunud)
+Võib pidada otsi-, varitsus- või hiilimisjahti või jahti jahikoeraga, välja arvatud FCI 6. rühma kuuluva jahikoeraga, 1. oktoobrist jahiaasta lõpuni.
 
 ### Teder (-)
-tedre ja metsisekanad palju väiksemad kui isaslinnud.
-must, suured punased kulmud.
-emane hallikaspruun, tumedama nokaga,nurmkana kompaktsem, pontsakam, heledama kõhulausega
-tedred hulgakesi koos puu otsas
+Tedre ja metsisekanad palju väiksemad kui isaslinnud.
+Isane must, suured punased kulmud. Emane hallikaspruun, tumedama nokaga,nurmkana kompaktsem, pontsakam, heledama kõhualusega.
+Tedred hulgakesi koos puu otsas
 
 ### Metsis (-) 
-enamasti männi otsas, sööb männiokkaid
-shampusepudeli kork ära - pulmamängus
-emane metsis - rinnaesine roostepruun, natuke suurem kui isane teder
+Enamasti männi otsas, sööb männiokkaid. Hääl "šampuse pudeli kork ära" - pulmamängus
+Emane metsis - rinnaesine roostepruun, natuke suurem kui isane teder
 
 # Nepid
 
 ### Metskurvits (nepp) (+)
-kevadel mängulend, lendavad metsalagendikel, krooksuvat häält, pikk nokk allapoole suunatud. Metskurvits kõige suurem nepp (hakisuurune) hästi laiade tiibadega - ainult sügisene jaht, lehtmetsade all, kraavide ääres, sööb vihmausse, meedivad märjad kohad
+Kevadel mängulend, lendavad metsalagendikel, krooksuvat häält, pikk nokk allapoole suunatud. Metskurvits kõige suurem nepp (hakisuurune) hästi laiade tiibadega - ainult sügisene jaht, lehtmetsade all, kraavide ääres, sööb vihmausse, meedivad märjad kohad
+Võib pidada otsi- või varitsus- või hiilimisjahti ning jahti FCI 7. ja 8. rühma kuuluva jahikoeraga 1. augustist 30. novembrini.
 
 ### Tikutaja (ka nepiline) (+)
-kuldnoka mõõtu - muda, setted, adru - roo ja vee piiril, lendu väga kiire ja käänakulise lennuga, esmalt kõrgusse. Kõhualune valge, mitte nagu Mudanepp, roosikuks kutsutakse, teeb seda wühühwühüh häält - paarituslennu heli sabasulgedega
+Kuldnoka mõõtu - muda, setted, adru - roo ja vee piiril, lendu väga kiire ja käänakulise lennuga, esmalt kõrgusse. Kõhualune valge, mitte nagu Mudanepp, roosikuks kutsutakse, teeb seda wühühwühüh häält - paarituslennu heli sabasulgedega
+Võib pidada peibutus- või varitsus- või hiilimisjahti ning jahti jahikoeraga, välja arvatud FCI (Fédération Cynologique Internationale) 6. rühma kuuluva jahikoeraga.
 
 ### Mudanepp (-) 
-varblase suurune, veidike suurem - läheb lendu saapa alt, ei näe ka enne, lühem nokk, seljal tugevad heledad vöödid. tikutajal mitte nii tugevad (ingl k JackSnipe)
+Varblase suurune, veidike suurem - läheb lendu saapa alt, ei näe ka enne, lühem nokk, seljal tugevad heledad vöödid. tikutajal mitte nii tugevad (ingl k JackSnipe)
 
 ### Rohunepp (-) (I kat kaitse) 
 luhaniitudel, tikutajaga samasuur - soomuses sulestik saba alla välja, mitte nagu tikutaja valge kõht. lendu minnes läheb suhteliselt madalalt mööda taimestikku ja maandub peagi uuesti. 
@@ -194,22 +202,26 @@ luhaniitudel, tikutajaga samasuur - soomuses sulestik saba alla välja, mitte na
 Kokku eestis 5, kaks neist pruunikad, turteltuvi, pole jahilinnud
 
 ### Kaelustuvi (alias metstuvi, meigas) (+) 
-oluliselt suurem kui kodutuvi. Vanalindudel valge kaelalaik, noorel ei ole, pea hall. Lennus on tiiva peal valge laik, ühelgi teisel tuvil seda pole.
+Oluliselt suurem kui kodutuvi. Vanalindudel valge kaelalaik, noorel ei ole, pea hall. Lennus on tiiva peal valge laik, ühelgi teisel tuvil seda pole.
+Võib pidada peibutus- või varitsus- või hiilimisjahti 1. augustist 31. oktoobrini.
 
 ### Kodutuvi (+) 
 hall (looduslik), valge, must, pruun jms
+Võib pidada peibutus-, hiilimis- või varitsusjahti ning jahti varesemõrraga 1. juulist 31. märtsini.
 
 ### Õõnetuvi (-) 
 kodutuvist väiksem, saledam, Kaelustuvi sarnane, elab vanades musträhni õõnsustes. Lennus kodutuvil valge laik sabal, õõnetuvil ei ole. Tiiva mustad vöödid suhteliselt väiksed ja ähmased. Uhtlaselt hallikassinine, kaelal erkroheline laik. Kevadel üks esimesi kes rändelt saabub (veebruaris juba)
 
 ## Hallrästas (+) 
-hästi lärmakas, kollaka pugu, valge kõhualune, hallikas pea ja kastanpruunid tiivad, parvelind.
+Hästi lärmakas, kollaka pugu, valge kõhualune, hallikas pea ja kastanpruunid tiivad, parvelind.
+Võib pidada varitsus- või hiilimisjahti väljaspool pesitsusaega kahjustuste vältimise eesmärgil.
 
 # Vareslased (enamik jahilinnud)
 ### Hallvares (+)
 ### Ronk (-) 
 ### Künnivares (+) 
-väiksem kui ronk, nokk sulistumata ja hele, ise süsimust. elavad kolooniatena.
+Väiksem kui ronk, nokk sulistumata ja hele, ise süsimust. elavad kolooniatena.
+Võib pidada varitsus- või hiilimisjahti väljaspool pesitsusaega kahjustuste vältimise eesmärgil.
 
 ### Hakk e Kaelushakk (-)
 ### Harakas (-) 
@@ -238,3 +250,8 @@ tumepruun pea
 
 ### Väikekajakas (-) 
 pea must ja mustad tiivaalused, tiiva tagaserv valge.
+
+
+# Muud
+## Kormoran
+Võib pidada otsi- või varitsus- või hiilimisjahti ning jahti FCI 7. ja 8. rühma kuuluva jahikoeraga 1. augustist 30. novembrini.
