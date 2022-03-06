@@ -4,3 +4,7 @@ PDF formaadis konspektid on "export" kataloogis
 
 Kasutamisel palun viidata nii sellele repositoryle siin kui originaalautoritele kus märgitud.
 Pildid valitud kõik vähemalt Creative Commons share-alike või lubavama litsentsiga
+
+## Lisamaterjalid
+
+[Naiskodukaitse relvakoolitus: meditsiin](https://www.naiskodukaitse.ee/Materjale_relvaatesteerimise_meditsiiniulesandeks_1225)
