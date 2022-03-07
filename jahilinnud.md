@@ -134,7 +134,7 @@ Hästi iseoomuliku geomeetrilise nokaga, must pea ülapool, alt valge, selg ja r
 
 ### Tõmmuvaeras (-)
 Tõmmuvaeral tiiva tagaservas valge aken, muidu suuresti must
-![](linnud/tommuvaeras_ Melanitta_fusca.jpg)
+![](linnud/tommuvaeras_Melanitta_fusca.jpg)
 
 ### Mustvaeras (+) 
 Mustvaera isa süsimust, ema tumepruun heledama pea alaosaga.
