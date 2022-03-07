@@ -168,10 +168,10 @@ Allikas: Tiit Randveer. Jahiraamat. 2003
 
 Põdrale võib jahti pidada:
 
-* 15. septembrist 15. detsembrini 
+* 15\. septembrist 15. detsembrini 
   * **pullile** varitsus- või hiilimis- või peibutusjahti
 
-* 1. oktoobrist 15. detsembrini 
+* 1\. oktoobrist 15. detsembrini 
   * ajujahti ja jahti jahikoeraga<sup>1</sup>
   
   * **lehmale** ja **vasikale** varitsus- või hiilimis- või peibutus- või ajujahti.
@@ -212,14 +212,14 @@ Allikas: Tiit Randveer. Jahiraamat. 2003
 
 Punahirvele võib jahti pidada:
 
-* 15. augustist 15. veebruarini, sealhulgas:  
-  * 1. septembrist 15. veebruarini pullile varitsus- või hiilimis- või peibutusjahti 
+* 15\. augustist 15. veebruarini, sealhulgas:  
+  * 1\. septembrist 15. veebruarini pullile varitsus- või hiilimis- või peibutusjahti 
   
-  * 1. oktoobrist 15. veebruarini ajujahti ja jahti jahikoeraga<sup>1</sup>
+  * 1\. oktoobrist 15. veebruarini ajujahti ja jahti jahikoeraga<sup>1</sup>
   
-  * 15. augustist 31. jaanuarini lehmale ja vasikale varitsus- või hiilimis- või peibutusjahti 
+  * 15\. augustist 31. jaanuarini lehmale ja vasikale varitsus- või hiilimis- või peibutusjahti 
   
-  * 1. oktoobrist 31. jaanuarini ajujahti ja jahti jahikoeraga<sup>1</sup>
+  * 1\. oktoobrist 31. jaanuarini ajujahti ja jahti jahikoeraga<sup>1</sup>
   
   <sup>1</sup> - välja arvatud FCI 6. rühma kuuluva jahikoeraga, kelle tõustandardis kinnitatud maksimaalne turjakõrgus on üle 52 cm
 
@@ -262,7 +262,7 @@ Allikas: Tiit Randveer. Jahiraamat. 2003
 Metsseale võib pidada:  
 
 * aasta ringi varitsus- või hiilimis- või ajujahti;  
-* 1. oktoobrist 31. märtsini jahti jahikoeraga, välja arvatud FCI 6. rühma kuuluva jahikoeraga, kelle tõustandardis kinnitatud maksimaalne turjakõrgus on üle 52 cm;  
+* 1\. oktoobrist 31. märtsini jahti jahikoeraga, välja arvatud FCI 6. rühma kuuluva jahikoeraga, kelle tõustandardis kinnitatud maksimaalne turjakõrgus on üle 52 cm;  
 * jahti püünisaeda kasutades Keskkonnaameti määratud juhtudel.
 
 -------------
@@ -303,13 +303,13 @@ Metskitsele võib jahti pidada 1. juunist 31. jaanuarini, sealhulgas:
 
 * sokule
   
-  * 1. juunist 31. jaanuarini varitsus- või hiilimis- või peibutusjahti 
+  * 1\. juunist 31. jaanuarini varitsus- või hiilimis- või peibutusjahti 
 
 * kitsele või tallele 
   
-  * 1. septembrist 31. jaanuarini varitsus- või hiilimisjahti  
+  * 1\. septembrist 31. jaanuarini varitsus- või hiilimisjahti  
 
-* 1. oktoobrist 31. jaanuarini ajujahti ja jahti jahikoeraga<sup>1</sup>
+* 1\. oktoobrist 31. jaanuarini ajujahti ja jahti jahikoeraga<sup>1</sup>
   
   <sup>1</sup> - FCI 3. ja 4. rühma kuuluv
 
@@ -335,8 +335,8 @@ Rebane on levinud kogu Eesti mandrialal ja saartel, esineb ka väikestel laidude
 
 #### Jahipidamine
 
-* 1. augustist 31. märtsini peibutus- või varitsus- või hiilimisjaht ning jaht kastlõksuga  
-* 1. oktoobrist jahiaasta lõpuni uru- või ajujaht ning jaht jahikoeraga või piirdelippe kasutades 
+* 1\. augustist 31. märtsini peibutus- või varitsus- või hiilimisjaht ning jaht kastlõksuga  
+* 1\. oktoobrist jahiaasta lõpuni uru- või ajujaht ning jaht jahikoeraga või piirdelippe kasutades 
 
 -----------
 
@@ -346,8 +346,8 @@ Rebane on levinud kogu Eesti mandrialal ja saartel, esineb ka väikestel laidude
 
 #### Jahipidamine
 
-* 1. septembrist jahiaasta lõpuni peibutus- või varitsus- või hiilimis- või ajujaht ning jaht piirdelippe kasutades 
-* 1. oktoobrist jahiaasta lõpuni jaht jahikoeraga 
+* 1\. septembrist jahiaasta lõpuni peibutus- või varitsus- või hiilimis- või ajujaht ning jaht piirdelippe kasutades 
+* 1\. oktoobrist jahiaasta lõpuni jaht jahikoeraga 
 
 ----
 
@@ -360,7 +360,7 @@ Eestis võõrliik. Esimesed kährikud lasti meil lahti 1950. aastal suure, üle 
 #### Jahipidamine
 
 * aasta ringi peibutus- või varitsus- või hiilimisjaht ning jaht kastlõksuga
-* 1. oktoobrist jahiaasta lõpuni uru- või ajujaht ning jaht jahikoeraga või piirdelippe kasutades 
+* 1\. oktoobrist jahiaasta lõpuni uru- või ajujaht ning jaht jahikoeraga või piirdelippe kasutades 
 
 ----
 
@@ -373,7 +373,7 @@ Eestis võõrliik. Populatsioon tekkis karusloomafarmidest metsa põgenenud isen
 #### Jahipidamine
 
 * aasta ringi varitsus- või hiilimisjaht või jaht kastlõksuga
-* 1. oktoobrist jahiaasta lõpuni jaht jahikoeraga 
+* 1\. oktoobrist jahiaasta lõpuni jaht jahikoeraga 
 
 ----
 
@@ -385,8 +385,8 @@ Tuhkur on väga laialt levinud väikekiskja. Tegutseb enamasti kultuurmaastikul 
 
 #### Jahipidamine
 
-* 1. oktoobrist 31. märtsini jaht püünisrauaga puult või ehitisest, jaht kastlõksuga, varitsus- või hiilimisjaht
-* 1. oktoobrist jahiaasta lõpuni jaht jahikoeraga 
+* 1\. oktoobrist 31. märtsini jaht püünisrauaga puult või ehitisest, jaht kastlõksuga, varitsus- või hiilimisjaht
+* 1\. oktoobrist jahiaasta lõpuni jaht jahikoeraga 
 
 ---
 
@@ -401,8 +401,8 @@ Loote arengus esineb latentsusperiood.
 
 #### Jahipidamine
 
-* 1. oktoobrist 31. märtsini jaht püünisrauaga puult või ehitisest, jaht kastlõksuga, varitsus- või hiilimisjaht
-* 1. oktoobrist jahiaasta lõpuni jaht jahikoeraga 
+* 1\. oktoobrist 31. märtsini jaht püünisrauaga puult või ehitisest, jaht kastlõksuga, varitsus- või hiilimisjaht
+* 1\. oktoobrist jahiaasta lõpuni jaht jahikoeraga 
 
 ---
 
@@ -412,8 +412,8 @@ Loote arengus esineb latentsusperiood.
 
 #### Jahipidamine
 
-* 1. oktoobrist 31. märtsini jaht püünisrauaga puult või ehitisest, jaht kastlõksuga, varitsus- või hiilimisjaht
-* 1. oktoobrist jahiaasta lõpuni jaht jahikoeraga 
+* 1\. oktoobrist 31. märtsini jaht püünisrauaga puult või ehitisest, jaht kastlõksuga, varitsus- või hiilimisjaht
+* 1\. oktoobrist jahiaasta lõpuni jaht jahikoeraga 
 
 ---
 
@@ -429,8 +429,8 @@ Urujaht keelatud 10 või rohkema urusuudmega urusüsteemi alal. Jahipidamisel la
 
 #### Jahipidamine
 
-* 1. septembrist jahiaasta lõpuni varitsus- või hiilimisjaht või jaht kastlõksuga 
-* 1. oktoobrist jahiaasta lõpuni uru- või ajujaht ning jaht jahikoeraga 
+* 1\. septembrist jahiaasta lõpuni varitsus- või hiilimisjaht või jaht kastlõksuga 
+* 1\. oktoobrist jahiaasta lõpuni uru- või ajujaht ning jaht jahikoeraga 
 
 ---
 
@@ -448,9 +448,9 @@ Hiilimis- või varitsus-koprajahil vibuga peab nool olema kinnitatud vibu külge
 
 #### Jahipidamine
 
-* 1. augustist 15. märtsini jaht mõrraga, piirdevõrguga, püünisrauaga või FCI 3. ja 4. rühma kuuluva jahikoeraga 
-* 1. oktoobrist jahiaasta lõpuni jaht jahikoeraga
-* 1. augustist 15. aprillini varitsus- või hiilimisjaht või kopra välja püük FCI 3. ja 4. rühma kuuluva jahikoeraga 
+* 1\. augustist 15. märtsini jaht mõrraga, piirdevõrguga, püünisrauaga või FCI 3. ja 4. rühma kuuluva jahikoeraga 
+* 1\. oktoobrist jahiaasta lõpuni jaht jahikoeraga
+* 1\. augustist 15. aprillini varitsus- või hiilimisjaht või kopra välja püük FCI 3. ja 4. rühma kuuluva jahikoeraga 
 * aasta ringi kopra tekitatud kahjustuste korral varitsus- või hiilimisjahina või koprapüügina FCI 3. ja 4. rühma kuuluva jahikoeraga Keskkonnaameti loal.
 
 ---
@@ -463,7 +463,7 @@ Eestis võõrliik. Meile istutati ondatra 1947. Seitsmekümnendatel ulatus nende
 
 #### Jahipidamine
 
-* 1. oktoobrist jahiaasta lõpuni jaht mõrraga, piirdevõrguga või varitsus- või hiilimisjaht.
+* 1\. oktoobrist jahiaasta lõpuni jaht mõrraga, piirdevõrguga või varitsus- või hiilimisjaht.
 
 ---
 
@@ -475,7 +475,7 @@ Halljänes on kultuurmaastike loom. Sügavas metsas halljänes ei elune. Peamise
 
 #### Jahipidamine
 
-* 1. oktoobrist jahiaasta lõpuni jaht FCI 3., 4., 6. ja 10. rühma kuuluva jahikoeraga.
+* 1\. oktoobrist jahiaasta lõpuni jaht FCI 3., 4., 6. ja 10. rühma kuuluva jahikoeraga.
 
 ---
 
@@ -487,6 +487,6 @@ Eestis laialt levinud jäneseliik. Elab peamiselt metsas ja soos. Kohati tänu i
 
 #### Jahipidamine
 
-* 1. oktoobrist jahiaasta lõpuni jaht FCI 3., 4., 6. ja 10. rühma kuuluva jahikoeraga.
+* 1\. oktoobrist jahiaasta lõpuni jaht FCI 3., 4., 6. ja 10. rühma kuuluva jahikoeraga.
 
 ---
