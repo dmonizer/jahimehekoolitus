@@ -150,7 +150,9 @@ Valge lauba ja nokaga süsimust (kuulub kureliste hulka) - ujudes jõnksutab pea
 # Haigrud ja sookurg
 Haigrud tõmbavad lennus kaela kõveraks, sookurel pikalt sirge
 
-### Hallhaigur (+), 
+### Hallhaigur (+)
+Võib pidada varitsus- või hiilimisjahti väljaspool pesitsusaega kahjustuste vältimise eesmärgil.
+
 ### Hõbehaigur(lumivalge) (-) 
 ### Sookurg (-)
 
@@ -195,25 +197,28 @@ Võib pidada peibutus- või varitsus- või hiilimisjahti ning jahti jahikoeraga,
 Varblase suurune, veidike suurem - läheb lendu saapa alt, ei näe ka enne, lühem nokk, seljal tugevad heledad vöödid. tikutajal mitte nii tugevad (ingl k JackSnipe)
 
 ### Rohunepp (-) (I kat kaitse) 
-luhaniitudel, tikutajaga samasuur - soomuses sulestik saba alla välja, mitte nagu tikutaja valge kõht. lendu minnes läheb suhteliselt madalalt mööda taimestikku ja maandub peagi uuesti. 
+Luhaniitudel, sama suur kui tikutaja - soomuses sulestik saba alla välja, mitte nagu tikutaja valge kõht. lendu minnes läheb suhteliselt madalalt mööda taimestikku ja maandub peagi uuesti. 
 
 # Tuvid
  
-Kokku eestis 5, kaks neist pruunikad, turteltuvi, pole jahilinnud
+Kokku eestis 5, kaks neist pruunikad, turteltuvi mis pole jahilinnud
 
 ### Kaelustuvi (alias metstuvi, meigas) (+) 
 Oluliselt suurem kui kodutuvi. Vanalindudel valge kaelalaik, noorel ei ole, pea hall. Lennus on tiiva peal valge laik, ühelgi teisel tuvil seda pole.
+
 Võib pidada peibutus- või varitsus- või hiilimisjahti 1. augustist 31. oktoobrini.
 
 ### Kodutuvi (+) 
-hall (looduslik), valge, must, pruun jms
+Hall (looduslik), valge, must, pruun jms
+
 Võib pidada peibutus-, hiilimis- või varitsusjahti ning jahti varesemõrraga 1. juulist 31. märtsini.
 
 ### Õõnetuvi (-) 
-kodutuvist väiksem, saledam, Kaelustuvi sarnane, elab vanades musträhni õõnsustes. Lennus kodutuvil valge laik sabal, õõnetuvil ei ole. Tiiva mustad vöödid suhteliselt väiksed ja ähmased. Uhtlaselt hallikassinine, kaelal erkroheline laik. Kevadel üks esimesi kes rändelt saabub (veebruaris juba)
+Kodutuvist väiksem, saledam, Kaelustuvi sarnane, elab vanades musträhni õõnsustes. Lennus kodutuvil valge laik sabal, õõnetuvil ei ole. Tiiva mustad vöödid suhteliselt väiksed ja ähmased. Uhtlaselt hallikassinine, kaelal erkroheline laik. Kevadel üks esimesi kes rändelt saabub (veebruaris juba)
 
 ## Hallrästas (+) 
 Hästi lärmakas, kollaka pugu, valge kõhualune, hallikas pea ja kastanpruunid tiivad, parvelind.
+
 Võib pidada varitsus- või hiilimisjahti väljaspool pesitsusaega kahjustuste vältimise eesmärgil.
 
 # Vareslased (enamik jahilinnud)
@@ -221,11 +226,12 @@ Võib pidada varitsus- või hiilimisjahti väljaspool pesitsusaega kahjustuste v
 ### Ronk (-) 
 ### Künnivares (+) 
 Väiksem kui ronk, nokk sulistumata ja hele, ise süsimust. elavad kolooniatena.
+
 Võib pidada varitsus- või hiilimisjahti väljaspool pesitsusaega kahjustuste vältimise eesmärgil.
 
 ### Hakk e Kaelushakk (-)
 ### Harakas (-) 
-ainus vareslane, kellel katusega pesa
+Ainus vareslane, kellel katusega pesa
 
 # Kajakad
 Võib pidada peibutus- või varitsus- või hiilimisjahti ning jahti jahikoeraga, välja arvatud FCI 6. rühma kuuluva jahikoeraga, ning arvukuse reguleerimise eesmärgil jahti kajakalistele kastlõksu või varesemõrraga 20. augustist 31. oktoobrini.
@@ -233,23 +239,23 @@ Merel, Narva veehoidlal, Võrtsjärvel, Peipsi ja Pihkva järvel 20. augustist 3
 
 ## Heleda peaga
 ### Hõbekajakas (+) 
-hallikad tiivad, valge pea ja rind. kollane silm, kurja olekuga, jäme kollane nokk, nokal punane täpp (poegade toitmiseks)
+Hallikad tiivad, valge pea ja rind. Kollane silm, "kurja" näoga, jäme kollane nokk, nokal tihti punane täpp (poegade toitmiseks)
 
 ### Merikajakas (+) 
-süsimust selg, valge pea ja rind, roosad jalad, nokal punane täpp (poegade toitmiseks)
+Süsimust selg, valge pea ja rind, roosad jalad, nokal punane täpp (poegade toitmiseks)
 
 ### Tõmmukajakas (-) 
-merikajakaga sarnane, kollased jalad, väiksem kui merikajakas, suurem kui Hõbekajakas. Põllul söömas 99% tõmmukajakas, mitte merikajakas. Mereääres mõlemad. Hallikas nokk
+Merikajakaga sarnane, kollased jalad, väiksem kui merikajakas, suurem kui Hõbekajakas. Põllul söömas 99% tõmmukajakas, mitte merikajakas. Mereääres mõlemad. Hallikas nokk
 
 ### Kalakajakas (+) 
-hõbekajaka moodi, aga väiksem, haki suurune - tume silm. malbe olekuga
+Hõbekajaka moodi, aga väiksem, haki suurune - tume silm. "Malbe" näoga
 
 ## Tumeda peaga
 ### Naerukajakas (+) 
-tumepruun pea
+Tumepruun pea, tiivaotstes suled mustad
 
 ### Väikekajakas (-) 
-pea must ja mustad tiivaalused, tiiva tagaserv valge.
+Pea must ja mustad tiivaalused, tiiva tagaserv valge.
 
 
 # Muud
