@@ -1,3 +1,6 @@
+# Eesti jahikoerad (ilma taksideta)
+![](koerad/ejs_plakat_sorteeritud.jpg)
+
 # Peatavad koerad
 
 ### Lääne-siberi laika
