@@ -187,14 +187,70 @@ Kollektsioneerida on lubatud kõiki relvi ja padruneid, samuti tulirelva olulisi
 6. kasteet, kasteetnuga, teraspiits, samuti muu spetsiaalselt kehavigastuse tekitamiseks valmistatud ese.
 
 ## 18. Kollektsiooni kuuluva relva kandmine.
+On keelatud, välja arvatud kollektsiooni kuulva tsiviilkäibes lubatud relva relvaloa või relvakandmisloa alusel
 
 ## 19. Relva või laskemoona relvakollektsiooni jaoks Eestisse EL liikmesriigist toimetamine.
+Relvaseadus reguleerib tsiviilkäibes lubatud relva või laskemoona kollektsiooni jaoks sissevedu, väljavedu ja edasitoimetamist. 
+Strateegilise kauba nimekirja kuuluva relva ja tsiviilkäibes keelatud relva ning laskemoona sissevedu, väljavedu, transiit ja teenuse osutamine toimub strateegilise kauba seadusega kehtestatud korras.
+
+Füüsiline või juriidiline isik võib relva, selle olulise osa või laskemoona oma tarbeks Eestisse sisse vedada, kui tal on vastava relva või selle olulise osa soetamisluba ja  Politsei- ja Piirivalveameti poolt väljastatav (§ 59 lg 4) eriluba. 
+
+Füüsiline või juriidiline isik võib oma nimele registreeritud relva või relvaseaduse relva soetamisloa alusel soetatud tsiviilkäibes lubatud relva, 
+selle olulise osa ning laskemoona Eestist ajutiselt välja vedada, kui tal on PPA väljastatud eriluba. Eriloa väljastamisel võib
+konsulteerida strateegilise kauba komisjoniga.
+
+Kui füüsiline või juriidiline isik on soetanud relva või laskemoona teises Euroopa Liidu liikmesriigis või kui isik 
+vahetab elukohta või asukohta, võib ta temale kuuluva relva või laskemoona alaliselt Eestisse toimetada, kui tal on 
+Politsei- ja Piirivalveameti väljastatud eelluba ja lähteriigi pädeva asutuse väljastatud luba.
+
+Kui füüsiline või juriidiline isik on soetanud relva või laskemoona Eestis või kui isik vahetab
+elukohta või asukohta, võib ta temale kuuluva relva või laskemoona alaliselt Eestist välja
+toimetada, kui tal on sihtriigi pädeva asutuse väljastatud eelluba ja Politsei- ja Piirivalveameti väljastatud luba
+
 ## 20. Eestis spordivõistlusel osalemiseks või jahipidamiseks teise isiku kasutusse relva andmine.
+
+Eestis spordivõistlusel osalemiseks või jahipidamiseks võib anda teise isiku kasutusse kuni viieks ööpäevaks käesoleva 
+seadusega kehtestatud korras registreeritud relva ning laskemoona tingimusel, et teisel isikul on seda liiki 
+jahitulirelva või sporditulirelva kohta antud relvaluba. Kontrollimisel peab olema võimalik kohe tõendada relva 
+ning laskemoona kasutusse andmist relvaomaniku poolt. Vajaduse korral koostatakse üleandmisevastuvõtmise akt,
+mis sisaldab:
+1. relva andmeid;
+2. relvaomaniku ja relva kasutaja isikuandmeid, relvaloa andmeid, kontaktandmeid;
+3. relva üleandmise ja vastuvõtmise aega.
+
+Relvaomanik ja relva kasutaja koostavad ja allkirjastavad akti kahes eksemplaris, millest üks jääb relvaomanikule 
+ja teine relva kasutajale.
+
 ## 21. Mis õigused annab relvasoetamisluba?
+Soetamisluba annab selle omajale õiguse loal märgitud relvaliigi hulka kuuluva relva soetamiseks, selle järgnevaks 
+hoidmiseks ja edasitoimetamiseks kuni relva registreerimiseni, samuti vastava laskemoona soetamiseks lubatud kogustes:
+1. <= 200 padrunit isiku omandis või valduses olevate turvalisuse tagamise otstarbega tulirelvade kohta;
+2. <= 100 gaasirelvapadrunit;
+3. <= 300 padrunit iga vintraudse jahitulirelva kohta;
+4. <= 300 padrunit iga sileraudse jahitulirelva kohta;
+5. <= 5000 padrunit isiku omandis või valduses olevate sporditulirelvade kohta;
+6. <= 1 kg püssirohtu iga tulirelva kohta, kuid kokku mitte üle 5 kg;
+7. <= 5000 sütikut.
+
 ## 22. Soetamisloa kehtivus selle väljastamisest.
+Soetamisluba kehtib kolm kuud. Luba võidakse pikendada kolme kuu võrra, kui pikendamise taotlus on esitatud 
+enne soetamisloa kehtivusaja lõppu.
+
 ## 23. Mis hetkest tekkib välismaal soetatud relva registreerimise kohustus?
+Välisriigist relva soetamise puhul tuleb relv registreerida Eestisse saabumise päevast, selle
+soetanud isiku elu- või asukohajärgses prefektuuris.
+
 ## 24. Mis tuleb relva ostmisel registreerimiseks Politsei- ja Piirivalveametile esitada?
+Relv registreeritakse soetamisloa alusel, millele relva müüja on kandnud andmed müüdud relva kohta. Prefektuur võib nõuda 
+relva esitamist, et kontrollida selle vastavust soetamisloale või relva soetamise seaduslikkust tõendavale muule 
+dokumendile kantud andmetele.
+
 ## 25. Relva registreerimise ajal relva hoidmine.
+Relva registreerimise ajaks võib relvaomanik või -valdaja anda selle hoiule politseisse või hoida seda oma elu- või 
+asukohas käesoleva seadusega kehtestatud korras ja tingimustel.
+Oma elu- või asukohas peab olema relv kohas, kus on välistatud sellele juurdepääs kõrvalisele isikule ning relva 
+hoidmine selles kohas peab olema ümbruskonnale ohutu. Tulirelva puhul peab seda hoidma tühjaks laetuna relvakapis .
+
 ## 26. Millised õigused annab relvaluba, millele on kantud vaid relva liik.
 ## 27. Paralleelrelvaloa saamise õigused.
 ## 28. Paralleelrelvaloaga kaasnevad õigused ja kohustused.
