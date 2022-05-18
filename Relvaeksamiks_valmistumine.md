@@ -395,7 +395,7 @@ Relva ja laskemoona ajutine hoiuleandmine relvaluba omavale isikule vormistataks
 mis koostatakse kahes eksemplaris, millest üks jääb hoiuleandjale ja teine hoiulevõtjale. Relvaluba omavale teisele 
 isikule võib relva anda ajutisele hoiule kuni üheks ööpäevaks kui isikul on:
 - nõuetekohane relvakapp või 
-- (>8 relvakorral) relvaruum või 
+- (>8 relva korral) relvaruum või 
 - lukustatav relvakapp, sahtel või laegas mittetulirelva korral.
 
 ## 37. Tulirelva ja laskemoona hoidmise nõuded nii ühe kui mitme relva hoidmisel.
