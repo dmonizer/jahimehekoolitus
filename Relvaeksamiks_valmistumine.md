@@ -73,19 +73,19 @@ Tulirelv on relv või seade, mis on ette nähtud või mis on kohandatud püssiro
 3. kombineeritud – sile- ja vintraudade kombinatsiooniga tulirelv.
 
 ## 8. Tulirelva osade ja oluliste osade loetelu.
-(1) Tulirelva osad (* - olulised) on 
-- relvaraud*, 
-- relvaraam*, 
-- relva lukukoda*, 
-- püstolikelk*, 
-- trummel*, 
-- lukk*, 
+Tulirelva osad (* - **olulised**) on 
+- **relvaraud***, 
+- **relvaraam***, 
+- **relva lukukoda***, 
+- **püstolikelk***, 
+- **trummel***, 
+- **lukk***, 
 - padrunipesa, 
 - kaitseriiv, 
 - adapter, 
 - padrunisalv
-- sulgur*
-- adapter*
+- **sulgur***
+- **adapter***
 - muu tulirelva osa või varuosa, mis on spetsiaalselt tulirelva jaoks konstrueeritud ja vajalik tulirelva kasutamiseks.
 - helisummuti, 
 - lasersihik (sihtimiseks ettenähtud seade, kus sihtimiseks kasutatakse laserikiirt. Lasersihikut võib soetada, omada ja vallata vaid vastava spordialaga tegelemise eesmärgil)
