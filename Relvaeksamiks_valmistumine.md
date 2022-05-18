@@ -252,16 +252,150 @@ Oma elu- või asukohas peab olema relv kohas, kus on välistatud sellele juurdep
 hoidmine selles kohas peab olema ümbruskonnale ohutu. Tulirelva puhul peab seda hoidma tühjaks laetuna relvakapis .
 
 ## 26. Millised õigused annab relvaluba, millele on kantud vaid relva liik.
+Relvaluba, millele on kantud vaid relva liik, annab selle omajale õiguse soetada laskemoona üleandmise-vastuvõtmise 
+aktiga kasutada antud relvale.
+
 ## 27. Paralleelrelvaloa saamise õigused.
+Paralleelrelvaluba antakse ühele või kahele füüsilisele isikule juhul, kui relvaomanik on andnud kirjaliku nõusoleku 
+temale kuuluva relva kasutamiseks konkreetselt näidatud isiku või isikute poolt.
+Paralleelrelvaloa saaja vastama samadele tingimustele, mis relvaloa omanik.
+
 ## 28. Paralleelrelvaloaga kaasnevad õigused ja kohustused.
+Füüsiline isik, kellele on väljastatud paralleelrelvaluba, võib hoida relva käesoleva paragrahvi lõikes 1 sätestatud hoiukohas või relva omaniku nõusolekul tema relva hoiukohas.
+Abikaasade ühisomandi jagamise käigus teise nimele registreeritud relva omanikuks saades võib selle sobivate hoiutingimuste olemasolul
+enda nimele registreerimise, laskekõlbmatuks muutmise või võõrandamise ajal oma hoiukohas hoida.  
+
 ## 29. Relvaloa kehtivusaeg.
+Relvaloa kehtivusaeg on kuni viis aastat. Relvaloa kehtivusaeg ei saa olla pikem kui isikule
+väljastatud tervisetõendi kehtivusaeg
+
 ## 30. Soetamisloa ja/või relvaloa väljastamist välistavad asjaolud.
+Soetamisluba ega relvaluba ei anta füüsilisele isikule, kes:
+1. on narkootiliste ja psühhotroopsete ainete kasutamisest tingitud psüühika- või käitumishäirega;
+2. on raskekujulise psüühikahäirega;
+3. on füüsilise puudega, mis takistab tema poolt taotletava relva õiget käsitsemist;
+4. hoidub kõrvale kaitseväeteenistusest;
+5. on piiratud teovõimega ja kellele on seetõttu määratud eestkostja;
+6. on karistatud elu- või tervisevastase kuriteo eest, tulirelva või laskemoonaga seotud kuriteo eest või kuriteo eest, 
+mis pandi toime relvaga või sellega ähvardades, või karistusseadustiku §-des 231–239 või §-s 241, 244, 246, 251, 255, 
+256 või 424 sätestatud kuriteo eest;
+7. on väärteomenetluse korras karistatud relva, tulirelva olulise osa või laskemoona soetamist, hoidmist, kandmist, 
+vedu või kasutamist reguleerivas õigusaktis sätestatud nõude rikkumise eest;
+8. on kahtlustatav või süüdistatav elu- või tervisevastases kuriteos, tulirelva või laskemoonaga seotud kuriteos või 
+kuriteos, mis pandi toime relvaga või sellega ähvardades, või karistusseadustiku §-des 231–239 või §-s 241, 244, 246, 
+251, 255, 256 või 424 sätestatud kuriteos;
+9. on soetamisloa või relvaloa taotlemisel tahtlikult esitanud valeandmeid, millel on oluline tähtsus loa andmise 
+küsimuse otsustamisel;
+10. ei oma Relvaseaduses ettenähtud tingimusi relva ja laskemoona hoidmiseks;
+11. on väärteomenetluse korras karistatud mootorsõiduki, maastikusõiduki või trammi juhtimise eest lubatud 
+alkoholipiirmäära ületades või õhusõiduki, veesõiduki või raudteeveeremi juhtimise eest alkoholijoobes;
+12. on väärteomenetluse korras karistatud narkootilise või psühhotroopse aine väikeses koguses ebaseadusliku käitlemise eest;
+13. on väärteomenetluse korras karistatud ajateenistuse kohustuse eiramise või õppekogunemise eiramise eest;
+14. ei osale kutsealusena Kaitseressursside Ameti arstlikus komisjonis terviseseisundi hindamisel, ei asu 
+ajateenistusse või eirab õppekogunemisele ilmumise kohustust;
+15. ei täida lapse ülalpidamise kohustust.
+
 ## 31. Relvaloa vahetamise kord.
+Relvaluba vahetatakse selle omaja või juriidilise isiku avalduse põhjal järgmistel juhtudel:
+1. loa kehtivuse lõppemine;
+2. loa kõlbmatuks muutumine;
+3. relva andmete või relva otstarbe muutumine;
+4. loa omaja andmete muutumine;
+5. loa või relva kaotsiminek või hävimine;
+6. relva hoiukoha muutumine.
+
+Relvaloa või relvakandmisloa vahetamiseks tuleb Politsei- ja Piirivalveametile esitada:
+1. kirjalik avaldus, milles näidatakse loa vahetamise põhjus;
+2. vahetamisele kuuluv relvaluba, kui see on väljastatud paberil, või relvakandmisluba, välja arvatud selle 
+kaotsimineku või hävimise korral;
+3. foto mõõtmetega 3×4 cm või anda nõusolek kasutada isikut tõendavate dokumentide andmekogus olevat fotot;
+4. seoses relvaloa või relvakandmisloa kehtivuse lõppemisega tervisetõend;
+5. dokumendid, mis tõendavad loa omaniku vastavust käesoleva seaduse sport- või jahitulirelva või akustilise relva 
+soetamise/valdamise nõuetele, välismaalasel relvaluba diplomaatilise staatuse korral Välisministeeriumi taotlus ja kodakonsusjärgse riigi relvaluba, 
+tõendid akustilise, sportrelva, piiratud tsiviilkäibega padrunisalve soetamise/valdamise nõuetele.
+
 ## 32. Millised relvaomaniku ja relvaandmete muudatused tuleb Politsei- ja Piirivalveametis vormistada.
+
+1. relva ümbertegemisest tingitud muudatused relvaandmetes (liik, mark, kaliiber, markeering). Relva ümbertegemiseks 
+peab olema Politsei- ja Piirivalveameti eelnev luba;
+2. relvaomaniku või -valdaja nime muutumisega ja relvade hoiukoha asukoha muutumisega seotud muudatused;
+3. muudatused muudes teenistus- ja tsiviilrelvade registrisse kantavates andmetes.
+
 ## 33. Relvaloa ja/või soetamiseloa kehtivuse peatamise alused.
+Politsei- ja Piirivalveamet peatab soetamisloa või relvaloa kehtivuse, kui:
+1. loa omajat on väärteomenetluse korras karistatud mootorsõiduki, maastikusõiduki või trammi juhtimise eest lubatud 
+alkoholipiirmäära ületades või õhusõiduki, veesõiduki või raudteeveeremi juhtimise eest alkoholijoobes;
+   1. loa omajat on väärteomenetluse korras karistatud väikeses koguses narkootilise või
+       psühhotroopse aine ebaseadusliku käitlemise eest;
+2. loa omaja on tagaotsitav, kahtlustatav või süüdistatav elu- või tervisevastases kuriteos, tulirelva või laskemoonaga 
+seotud kuriteos või kuriteos, mis pandi toime relva kasutades või sellega ähvardades, või mõnes karistusseadustiku 
+§-des 231–239 või §-des 241, 244, 246, 251, 255, 256 ja 424 sätestatud kuriteos;
+3. loa omaja suhtes esineb põhjendatud kahtlus, et ta võib oma eluviisi või käitumisega ohustada enda või teise 
+isiku turvalisust;
+4. kontrollimisel on tuvastatud, et loa omajal ei ole käesolevas seaduses ettenähtud tingimusi relva ja 
+laskemoona hoidmiseks;
+5. juriidiline isik on põhjendamatult jätnud täitmata järelevalveorgani ettekirjutuse käesoleva seaduse või selle 
+alusel antud õigusaktide nõuete täitmise kohta.
+6. isikupoolse relva käitlemise või kasutamisega on põhjustatud isiku surm või tekitatud isikule tervisekahjustus 
+või varaline kahju;
+7. juriidilise isiku aktsionäri või osaniku, nõukogu või juhatuse liikme või juriidilise isiku juhtimise üle 
+valitsevat mõju omava muu isiku suhtes esineb käesoleva seaduse § 40 lõike 1 punktides 5‒8 nimetatud asjaolu;
+8. loa omaja ei osale kutsealusena Kaitseressursside Ameti arstlikus komisjonis terviseseisundi hindamisel, ei 
+asu ajateenistusse või eirab õppekogunemisele ilmumise kohustust;
+9. loa omajast füüsiline isik ei tegele enam relva vajava spordiala või jahindusega või juriidiline isik ei tegele 
+spordialaga või ajaloolise-kultuurilise sündmuse etendamisega.
+
 ## 34. Relvaloa ja/või soetamiseloa kehtetuks tunnistamise alused.
+Politsei- ja Piirivalveamet **tunnistab** soetamisloa või relvaloa kehtetuks, kui:
+1. seda taotleb loa omaja või relvaomanik;
+2. loa omaja ei vasta enam Relvaseadusega kehtestatud nõuetele või kui esineb käesoleva seaduse mõni füüsilise isiku 
+relvaluba välistavatest tingimustest (v.a. kahtlustatav või süüdistatav olek või karistatus alkoholijoobes sõiduki 
+juhtimise eest) või mõni juriidilise isiku relvaluba välistavatest tingimustest.
+3. relv kuulub erikonfiskeerimisele;
+4. loa omaja on surnud või teadmata kadunuks tunnistatud;
+5. relv on kaotsi läinud või hävinud;
+6. relv on muutunud kasutamiskõlbmatuks määral, mis ei võimalda selle taastamist, või kui relvaomanik või -valdaja 
+ei soovi relva taastada;
+7. soetamisluba või relvaluba on kaotsi läinud või hävinud;
+8. juriidiline isik on lõppenud või asutus on likvideeritud;
+9. relvaomanik või -valdaja on vähemalt kaks korda viimase kolme aasta jooksul rikkunud käesoleva seaduse või selle 
+alusel antud õigusakti nõudeid või on jätnud täitmata temale tehtud ettekirjutuse nõuded.
+10. isik, kelle relvaloale ei ole kantud käesoleva otstarvet relva spordi-, kollektsioneerimise- või sündmuse 
+etendamise otstarvet, valdab piiratud käibega padrunisalve;
+11. isik, kellele on väljastatud relvaluba spordialaga tegelemiseks, ei ole enam spordialaga tegeleva 
+laskespordiklubi liige.
+12. isik, kellele on väljastatud relvaluba kasutamaks piiratud käibega padrunisalvega relvale, ei ole enam spordialaga 
+tegeleva laskespordiklubi liige või ei osale ega treeni enam tunnustatud laskevõistlusteks.  
+13. riigikaitses osalev isik, kelle relvaloale kantud relva andmetele ei ole tehtud märget  piiratud käibega 
+padrunisalve soetamise, omamise ja valdamise õiguse kohta, valdab piiratud käibega padrunisalve;
+14. riigikaitses osalev isik, kelle relvaloale kantud relva andmetele on tehtud märge piiratud käibega padrunisalve 
+soetamise, omamise ja valdamise õiguse kohta, ei ole enam Kaitseväe sõjaaja ametikohal või Kaitseliidu liige.
+
+Politsei- ja Piirivalveamet **võib tunnistada** soetamisloa või relvaloa kehtetuks, kui 
+- loa omaja on enda või teise isiku turvalisust ohustava eluviisi või käitumise tõttu sobimatu seda liiki 
+relva soetama või omama.
+- kui loa omaja suhtes on põhjendatud kahtlus, et ta võib ohustada Eesti Vabariigi julgeolekut.
+- kui loa omajat on karistatud korduvalt toimepandud süüteo eest ja tema karistusandmed ei ole karistusregistrist 
+karistusregistri seaduse kohaselt kustutatud.
+
 ## 35. Relvaloa kehtivuse lõppemise tagajärg.
+Pärast soetamisloa või paberil relvaloa kehtivuse lõppemist, peatamist või kehtetuks tunnistamist on loa omaja, 
+vastava relva omanik, valdaja või muu isik, kelle valduses on vastav luba, Euroopa tulirelvapass, relv ja selle 
+laskemoon, kohustatud need hiljemalt loa kehtivuse viimasel tööpäeval või kehtetuks tunnistamise või kehtivuse 
+peatamise otsuse teatavakstegemisele järgneval tööpäeval üle andma politseile. Juriidilise isiku relva ja laskemoona 
+võib jätta politsei poolt pitseeritud juriidilise isiku relvahoidlasse
+
 ## 36. Relva ajutine hoidmine.
+Relva ja laskemoona hoitakse käesoleva seaduse §-s 46 sätestatud tingimustel või antakse need ajutiselt hoiule isikule, 
+kellel on:
+1. relvaluba või
+2. tegevusluba relvade või laskemoona hoidmiseks teenusena 
+
+Relva ja laskemoona ajutine hoiuleandmine relvaluba omavale isikule vormistatakse üleandmise-vastuvõtmise aktiga, 
+mis koostatakse kahes eksemplaris, millest üks jääb hoiuleandjale ja teine hoiulevõtjale. Relvaluba omavale teisele 
+isikule võib relva anda ajutisele hoiule kuni üheks ööpäevaks kui isikul on nõuetekohane relvakapp või -ruum (>8 relva 
+korral) või lukustatav relvakapp, sahtel või laegas mittetulirelva korral.
+
 ## 37. Tulirelva ja laskemoona hoidmise nõuded nii ühe kui mitme relva hoidmisel.
 ## 38. Relvakappide ja relvahoidla nõuded tulirelva hoidmisel.
 ## 39. Mis on relvakandmine relvaseaduse mõistes?
