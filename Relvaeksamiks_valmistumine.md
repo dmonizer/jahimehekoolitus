@@ -73,16 +73,121 @@ Tulirelv on relv või seade, mis on ette nähtud või mis on kohandatud püssiro
 3. kombineeritud – sile- ja vintraudade kombinatsiooniga tulirelv.
 
 ## 8. Tulirelva osade ja oluliste osade loetelu.
+(1) Tulirelva osad (* - olulised) on 
+- relvaraud*, 
+- relvaraam*, 
+- relva lukukoda*, 
+- püstolikelk*, 
+- trummel*, 
+- lukk*, 
+- padrunipesa, 
+- kaitseriiv, 
+- adapter, 
+- padrunisalv
+- sulgur*
+- adapter*
+- muu tulirelva osa või varuosa, mis on spetsiaalselt tulirelva jaoks konstrueeritud ja vajalik tulirelva kasutamiseks.
+- helisummuti, 
+- lasersihik (sihtimiseks ettenähtud seade, kus sihtimiseks kasutatakse laserikiirt. Lasersihikut võib soetada, omada ja vallata vaid vastava spordialaga tegelemise eesmärgil)
+- öösihik
+
+Oluliseks osaks loetakse ka nende lõpuni töötlemata toorikuid ja nõuetele mittevastavalt laskekõlbmatuks muudetud osasid, samuti muid esemeid, mida on võimalik nende valmistamismaterjali või konstruktsiooni ära kasutades üldlevinud tehniliste vahendite või tööriistadega töödelda, ümber ehitada või kohandada eelnevalt tärniga märgitud osaks.
+
 ## 9. Mis on helisummuti.
+Helisummuti on tulirelvaga tulistamisel tekkiva heli summutamiseks ettenähtud seade, mida on tulirelvale lubatud kinnitada ja kasutada jahipidamisel või lasketiirus või laskepaigas. Helisummuti omandamise õiguse annab relvaluba.
+
 ## 10. Mis on öösihik.
+Öösihik on puudulikus valguses sihtimiseks ettenähtud seade, millel on kujutise muundur või elektrooniline võimendus. Öösihik on tsiviilkäibes keelatud.
+
 ## 11. Tsiviilkäibes lubatud ja keelatud relvad.
+### Piiramata tsiviilkäibega relvad on:
+1. gaasipihusti (üksnes lakrimaatoritega CS või pipragaasiga (kapsaitsiiniga) täidetud. Kasutatava gaasi kontsentratsioon seejuures võib olla kuni 5%);
+2. kuni 4,5-millimeetrise kaliibriga (kaasa arvatud) pneumorelv*;
+2.1. hoiatus- ja signaalrelv, mis vastab käesoleva seaduse alusel kehtestatud tehnilistele nõuetele ning millest ei ole võimalik tulistada gaasipadrunis sisalduva gaasilaenguga;
+3. jahinuga ja -puss;
+   1. tääknuga;
+   2. torketääk;
+4. allveenuga*;
+5. spordiotstarbeline vehklemisrelv (epee, espadron, florett jt)*;
+6. ajaloolise kultuuri-, võitlus- või sporditraditsiooniga seonduv külmrelv (mõõk, pistoda, rapiir jt) või selle koopia*;
+7. amb*;
+8. sportvibu (jahiks võib kasutada ainult vähemalt 18-aastane isik)*;
+9. allveerelv*.
+                                                                    
+Piiramata tsiviilkäibega relva ega selle laskemoona võib soetada, omada, vallata, kanda, hoida ega edasi toimetada vähemalt 18-aastane (tärniga tähistatuid vähemalt 10. aastane vastava spordialaga tegelev) isik.
+
+### Piiratud tsiviilkäibega relvad on:
+1. gaasirelvad, välja arvatud piiramata käibega gaasipihusti;
+2. pneumorelvad > 4,5-millimeetrise kaliibriga;
+3. külmrelvad, v.a. piiramata käibega loetelu;
+4. tulirelvad, v.a. tsiviilkäibes keelatud tulirelvad;
+5. akustilised relvad.
+
+### Tsiviilkäibes keelatud tulirelvad on:
+1) mõne muu eseme kuju imiteeriv;
+2) antud relvaliigile tavalist määra ületavalt kokku panna (lükata) või lühendada võimaldav;
+3) lahtivõetuna võimaldab lasu sooritamist võimaldav;
+4) automaattulirelv, millest ühekordsel päästikule vajutamisel saab sooritada valangu;
+5) tulirelv, millel puudub valmistaja markeering;
+6) eriohtlikkusega relv, granaadiheitja, raketisüsteemid, raskerelvad ja muud sõjarelvad, mis ei ole tulirelvad.
+
+### Tsiviilkäibes keelatud külmrelvad on:
+1) kasteet, kasteetnuga, teleskoopnui, teraspiits, samuti muu spetsiaalselt kehavigastuse tekitamiseks valmistatud ese;
+2) lõike-, torke- või löögirelv, mis imiteerib mõne muu eseme kuju või on peidetud selle sisse;
+3) vedru- või raskusjõul väljaviskuva ja seejärel jäigalt kinnituva teraga nuga, mille tera pikkus on üle 8,5 cm või mille tera on kahelt poolt teritatud.
+
+Tsiviilkäibes on keelatud elektrišokirelv.
+### Tsiviilkäibes keelatud laskemoon on:
+1) gaasipüstoli- ja -revolvripadrun, mis sisaldab närviparalüütilist, nahakahjustust tekitavat, üldmürgitava ja lämmatava toimega ainet, mis võib põhjustada sellise tervisekahjustuse, mille kõrvaldamiseks on vaja arstiabi;
+2) igasugune soomust läbiv laskemoon ka selle kuulid;
+3) õõnsaotsalise kuuliga püstoli- ja revolvripadrun;
+4) eriohtlikkusega relvade, granaadiheitja, raketisüsteemide, raskerelvade laskemoon.
+
 ## 12. Laskemoona liigitamine ja padrunikomponendid.
+Laskemoon on terviklik padrun, mis koosneb järgmistest padrunikomponentidest:
+1. püssirohi või muu paiskelaeng;
+2. sütik;
+3. kuul, haavel või muu lendkeha;
+4. padrunikest.
+
+### Padrunite liigid on:
+1. tulirelvapadrun, mille lendkehaks on kuul või haavel;
+   1. kesktulepadrun – süüteaine on padrunipõhja keskel;
+   2. ääretulepadrun – süüteaine on padrunipõhja äärikus.
+2. gaasirelvapadrun, mille lendkehaks on gaas.
+
 ## 13. Piiratud- ja piiramata tsiviilkäibega laskemoon ja selle komponendid.
+Piiramata tsiviilkäibega padrunikomponent on kuul, haavel või muu lendkeha ja padrunikest.
+Piiramata tsiviilkäibega laskemoona ei või soetada, omada, vallata, kanda, hoida ega edasi toimetada alla 18-aastane isik.
+
+Piiratud tsiviilkäibega relvadele mõeldud laskemoona, püssirohtu ja sütikuid võib soetada relva soetamisloa või relvaloa alusel.
+
 ## 14. Milliseid relvi ja millistel otstarvetel võib soetada 18-aastane ja vanem eesti kodanik?
+sporditulirelva, pneumo-, heit- ja külmrelva, välja arvatud kumminui, vastava spordialaga tegelemiseks, jahitulirelva jahipidamiseks, gaasirelva ja sileraudset püssi turvalisuse tagamiseks (enese ja vara kaitseks), akustilist relva ajaloolise või kultuurilise sündmuse etendamiseks;
+
 ## 15. Milliseid relvi ja millistel otstarvetel võib soetada 21-aastane ja vanem eesti kodanik ?
+lisaks 18-aastasele lubatutele veel kombineeritud või vintraudset püssi, püstolit või revolvrit turvalisuse tagamiseks.
+
 ## 16. Relvade kollektsiooni asutamine ja selleks õigust omavad isikud.
+Kollektsiooni asutada ja pidada sooviv füüsiline isik esitab taotluse Politsei- ja Piirivalveametile. 
+Selleks on õigus:
+ - füüsilisel, relvaeksami sooritanud, vähemalt 18-aastane Eesti kodanikul või välismaalasel, kellel on Eesti elamisluba või kes elab Eestis elamisõiguse alusel, 
+ - Eestis registreeritud juriidiline isik Politsei- ja Piirivalveameti antud kollektsioneerimisloa alusel, kui see ei ohusta riigi julgeolekut ega avalikku korda.
+
+Taotluses märgitakse kollektsioneerimise eesmärk, kollektsioneeritavate relvade ja padrunite liik, piiratud käibega padrunisalved ning nende hoiutingimused.
+
 ## 17. Kollektsioneerida lubatud relvad.
+
+Kollektsioneerida on lubatud kõiki relvi ja padruneid, samuti tulirelva olulisi osi ning kollektsioneeritava relva juurde kuuluvaid piiratud käibega padrunisalvi, helisummuteid, lasersihikuid ning öösihikuid, välja arvatud:
+1. relv, mille mõju põhineb elektrienergia, radioaktiivse kiirguse või bioloogilise faktori kasutamisel;
+2. lõhkelaskemoon, süütelaskemoon, eriohtlikkusega tulirelvade laskemoon ning närviparalüütilist, nahakahjustust tekitavat, üldmürgitava ja lämmatava toimega ainet sisaldav laskemoon;
+3. lahingumoon;
+4. üle 12,7 mm kaliibriga laskekõlblik vintraudne tulirelv (või selle padrun) või akustiline relv, mille (padruni) mudeli tootmist alustati pärast 1945. aastat;
+5. üle 20 mm kaliibriga laskekõlblik sileraudne tulirelv (või selle  padrun) või akustiline relv, mille (padruni) mudeli tootmist alustati pärast 1945. aastat;
+6. kasteet, kasteetnuga, teraspiits, samuti muu spetsiaalselt kehavigastuse tekitamiseks valmistatud ese.
+
 ## 18. Kollektsiooni kuuluva relva kandmine.
+
 ## 19. Relva või laskemoona relvakollektsiooni jaoks Eestisse EL liikmesriigist toimetamine.
 ## 20. Eestis spordivõistlusel osalemiseks või jahipidamiseks teise isiku kasutusse relva andmine.
 ## 21. Mis õigused annab relvasoetamisluba?
