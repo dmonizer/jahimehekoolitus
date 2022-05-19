@@ -45,6 +45,7 @@ jobs:
           git add export/
           git commit -am "converted files"
           git status
+          git pull
           git push        
 
       
