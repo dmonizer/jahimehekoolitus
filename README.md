@@ -25,8 +25,8 @@ Pildid valitud kõik vähemalt Creative Commons share-alike või lubavama litsen
 3. Esmaabikoolituse (16h) tõend 
 4. Relva hoiukoha/kohtade ettevalmistus ( Sertifitseeritud relvakapp - rangelt soovituslik ka 1 relva korral )
 5. Relvaloa eksam ( https://www.politsei.ee/et/relvaeksam )
-  5.1. Teooria   
-  5.2  Laskekatse (vastavalt soovitavale relvale - vintraudse puhul LR22 relvaga)
+   5.1. Teooria   
+   5.2. Laskekatse (vastavalt soovitavale relvale - vintraudse puhul LR22 relvaga)
 
 
 ### Relvaostuks vajalikud lisasammud
