@@ -7,12 +7,12 @@ Relvade ja laskemoona valmistamine, müük, soetamine, omamine, valdamine, hoidm
 ## 2. Relvaseaduse kohaldamisala.
 Relvaseadust **ei** kohaldata:
 1. asjale, mis ei ole relvaks konstrueeritud või kohandatud, kuid mida on võimalik sellena kasutada;
-   1.1 esemetele, mis on ette nähtud häire või märguandmiseks, elupäästmiseks, loomatapuks või -uinutamiseks või tööstuslikuks või tehniliseks kasutamiseks, tingimusel et neid saab kasutada üksnes sel otstarbel;
+	1. esemetele, mis on ette nähtud häire või märguandmiseks, elupäästmiseks, loomatapuks või -uinutamiseks või tööstuslikuks või tehniliseks kasutamiseks, tingimusel et neid saab kasutada üksnes sel otstarbel;
 2. enne 1870. aastat valmistatud tulirelvale ja selle koopiale tingimusel, et nendest ei saa tulistada käesoleva seaduse §-des 19 ja 20 nimetatud laskemoona;
 3. laskekõlbmatuks muudetud relvale, mille kohta on väljastatud komisjoni rakendusmääruse (EL) 2015/2403, millega kehtestatakse tulirelvade laskekõlbmatuks muutmise norme ja meetodeid käsitlevad ühised suunised, et tagada laskekõlbmatuks muudetud tulirelvade jäädav kasutuskõlbmatus (edaspidi Euroopa Komisjoni rakendusmäärus), III lisas sätestatud laskekõlbmatust tõendav dokument, kui käesolev seadus ei sätesta teisiti;
-   3.1 enne 2016. aasta 8. aprilli laskekõlbmatuks muudetud relvale, mille kohta on käesoleva seaduse alusel väljastatud laskekõlbmatust tõendav tunnistus, kui käesolev seadus ei sätesta teisiti;
+	1. enne 2016. aasta 8. aprilli laskekõlbmatuks muudetud relvale, mille kohta on käesoleva seaduse alusel väljastatud laskekõlbmatust tõendav tunnistus, kui käesolev seadus ei sätesta teisiti;
 4. strateegilise kauba seaduse kohaselt demilitariseeritud sõjarelvale, kui käesolev seadus ei sätesta teisiti;
-   4.1 sõjarelvade, nende oluliste osade, sõjalise otstarbega laskemoona ja lahingumoona Eestisse sisseveole ja Eestist väljaveole strateegilise kauba seaduse §-s 6 sätestatud eriloa alusel;
+	1. sõjarelvade, nende oluliste osade, sõjalise otstarbega laskemoona ja lahingumoona Eestisse sisseveole ja Eestist väljaveole strateegilise kauba seaduse §-s 6 sätestatud eriloa alusel;
 5. lõhkematerjalile ja pürotehnilisele tootele lõhkematerjaliseadusega reguleeritud küsimustes, välja arvatud sõjalise otstarbega laskemoonale ja pürotehnilisele tootele ning lahingumoonale, kui käesolev seadus ei sätesta teisiti;
 6. terariistale, mis on valmistatud kasutamiseks koduses majapidamises või olmes ja millel puuduvad käesoleva seaduse § 20 lõike 2 punktis 2 nimetatud eritunnused;
 7. ametirelvadele, nende laskemoonale ning valitsusasutuse või Kaitseliidu valduses olevale lahingumoonale, kui käesolev seadus ei sätesta teisiti;
@@ -27,14 +27,15 @@ Filmivõtetel võib tulirelva kasutada üksnes Politsei- ja Piirivalveameti ühe
 
 Omaniku surma tõttu oma valdusse saadud või leitud/mahajäetud/peidetud relvast ja/või laskemoonast tuleb tuleb viivitamatult teavitada politseid ja relv/moon neile üle anda.
 
+Politsei teatab leitud relvast avalikult *7 tööpäeva* jooksul.
 Kui leitud relva või laskemoona omanik või valdaja ei ole 6 kuu möödumisel avalikult teatamisest selgunud ja kui ei ole tuvastatud relva eelnevat kasutamist seadusvastastes toimingutes, on leidjal õigus leitud relv ja laskemoon omandada.
 
-Alates sellest hetkest (leiu korral) või pärandi vastuvõtmisest kolme kuu jooksul on leidjal/pärijal õigus:
+Alates sellest hetkest (leiu korral) või pärandi vastuvõtmisest *kolme kuu* jooksul on leidjal/pärijal õigus:
 1. esitada taotlus omandatud relva kohta relvaloa saamiseks;
 2. esitada taotlus omandatud relva laskekõlbmatuks muutmiseks või selle laskekõlbmatusnõuetele vastavuse tuvastamiseks;
 3. võõrandada relv ja laskemoon relvaseadusega kehtestatud korras.
 
-Kui leidjale või pärijale keeldutakse leitud relva kohta relvaluba andmast, tuleb relv ja laskemoon võõrandada kolme kuu jooksul, arvates keeldumise otsuse teatavakstegemise päevast.
+Kui leidjale või pärijale keeldutakse leitud relva kohta relvaluba andmast, tuleb relv ja laskemoon võõrandada *kolme kuu* jooksul, arvates keeldumise otsuse teatavakstegemise päevast.
 Leitud või pärandvaras olevat, tsiviilkäibes keelatud, kuid kollektsioneerida lubatud relva ja laskemoona võib võõrandada riigile või kollektsioneerimisluba omavale isikule.
 
 Kui leidja või pärija ei ole relva ja laskemoona võõrandanud etteantud tähtaja jooksul, kuuluvad need sundvõõrandamisele.
@@ -53,11 +54,12 @@ Relvavaldaja on kohustatud igast relva kaotsimineku või hävimise juhtumist vii
 6. elektrišokirelv – relv, mille toime põhineb elektrienergia kasutamisel;
 7. hoiatus- ja signaalrelv – seade, millel on padrunipesa ja mis on valmistatud üksnes paukpadrunite või pürotehnilise signaali andmiseks mõeldud laskemoonaga tulistamiseks ning mida ei ole võimalik kohandada püssirohu toimel haavli, kuuli või lendkeha väljalaskmiseks;
 8. akustiline relv – spetsiaalselt üksnes paukpadrunite tulistamiseks ümberehitatud või kohandatud tulirelv, sealhulgas automaattulirelv, mida kasutatakse eelkõige teatrietendusel, fotosessioonil, filmi- või televisioonisalvestusel, ajalooliste sündmuste taasetendamisel, paraadil või spordisündmusel ning nendeks harjutamisel;
-9. laskekõlbmatu relv – tulirelv või akustiline relv, mis on muudetud laskekõlbmatuks nii, et tulirelva kõik olulised osad on muudetud kasutuskõlbmatuks ning neid ei ole võimalik relva taas laskekõlblikuks muutmiseks eemaldada, asendada ega ümber ehitada.
+9. laskekõlbmatu relv – tulirelv või akustiline relv, mis on muudetud laskekõlbmatuks nii, et tulirelva kõik olulised osad on muudetud kasutuskõlbmatuks ning neid ei Ole võimalik relva taas laskekõlblikuks muutmiseks eemaldada, asendada ega ümber ehitada.
  
 ## 7. Tulirelva mõiste relvaseaduses.
 
 Tulirelv on relv või seade, mis on ette nähtud või mis on kohandatud püssirohugaaside, põlemisgaaside või plahvatusgaaside tulemusena tekkinud gaasisurve toimel suunatult välja laskma lendkeha;
+
 ### Tulirelvi liigitatakse üldpikkuse ja relvaraua pikkuse järgi:
 1. püss – üldpikkus > 600 mm ja relvaraua/raudade pikkus > 300 mm;
 2. püstol – üldpikkus <= 600 mm ja relvaraua pikkus <= 300 mm ning mille padrunid võivad padrunisalves paikneda ühes või mitmes reas;
@@ -103,16 +105,16 @@ Helisummuti on tulirelvaga tulistamisel tekkiva heli summutamiseks ettenähtud s
 ### Piiramata tsiviilkäibega relvad on:
 1. gaasipihusti (üksnes lakrimaatoritega CS või pipragaasiga (kapsaitsiiniga) täidetud. Kasutatava gaasi kontsentratsioon seejuures võib olla kuni 5%);
 2. kuni 4,5-millimeetrise kaliibriga (kaasa arvatud) pneumorelv*;
-2.1. hoiatus- ja signaalrelv, mis vastab käesoleva seaduse alusel kehtestatud tehnilistele nõuetele ning millest ei ole võimalik tulistada gaasipadrunis sisalduva gaasilaenguga;
-3. jahinuga ja -puss;
-   1. tääknuga;
-   2. torketääk;
-4. allveenuga*;
-5. spordiotstarbeline vehklemisrelv (epee, espadron, florett jt)*;
-6. ajaloolise kultuuri-, võitlus- või sporditraditsiooniga seonduv külmrelv (mõõk, pistoda, rapiir jt) või selle koopia*;
-7. amb*;
-8. sportvibu (jahiks võib kasutada ainult vähemalt 18-aastane isik)*;
-9. allveerelv*.
+	1. hoiatus- ja signaalrelv, mis vastab käesoleva seaduse alusel kehtestatud tehnilistele nõuetele ning millest ei Ole võimalik tulistada gaasipadrunis sisalduva gaasilaenguga;
+3. jahinuga ja -puss; (**K**ülmrelv)
+4. tääknuga; (**K**)
+5. torketääk; (**K**)
+6. allveenuga*; (**K**)
+7. spordiotstarbeline vehklemisrelv (epee, espadron, florett jt)*; (**K**)
+8. ajaloolise kultuuri-, võitlus- või sporditraditsiooniga seonduv külmrelv (mõõk, pistoda, rapiir jt) või selle koopia*; (**K**)
+9. amb*;
+10. sportvibu (jahiks võib kasutada ainult vähemalt 18-aastane isik)*;
+11. allveerelv*.
                                                                     
 Piiramata tsiviilkäibega relva ega selle laskemoona võib soetada, omada, vallata, kanda, hoida ega edasi toimetada vähemalt 18-aastane (tärniga tähistatuid vähemalt 10. aastane vastava spordialaga tegelev) isik.
 
@@ -147,8 +149,10 @@ Tsiviilkäibes on keelatud elektrišokirelv.
 Laskemoon on terviklik padrun, mis koosneb järgmistest padrunikomponentidest:
 1. püssirohi või muu paiskelaeng;
 2. sütik;
-3. kuul, haavel või muu lendkeha;
-4. padrunikest.
+3. kuul, haavel või muu lendkeha; (*)
+4. padrunikest. (*)
+
+(*) - piiramata tsiviilkäibega laskemoona osad
 
 ### Padrunite liigid on:
 1. tulirelvapadrun, mille lendkehaks on kuul või haavel;
@@ -163,10 +167,16 @@ Piiramata tsiviilkäibega laskemoona ei või soetada, omada, vallata, kanda, hoi
 Piiratud tsiviilkäibega relvadele mõeldud laskemoona, püssirohtu ja sütikuid võib soetada relva soetamisloa või relvaloa alusel.
 
 ## 14. Milliseid relvi ja millistel otstarvetel võib soetada 18-aastane ja vanem eesti kodanik?
-sporditulirelva, pneumo-, heit- ja külmrelva, välja arvatud kumminui, vastava spordialaga tegelemiseks, jahitulirelva jahipidamiseks, gaasirelva ja sileraudset püssi turvalisuse tagamiseks (enese ja vara kaitseks), akustilist relva ajaloolise või kultuurilise sündmuse etendamiseks;
+* sporditulirelva, 
+* pneumo-, heit- ja külmrelva (välja arvatud kumminui) vastava spordialaga tegelemiseks, 
+* jahitulirelva jahipidamiseks, 
+* gaasirelva ja sileraudset püssi turvalisuse tagamiseks (enese ja vara kaitseks), 
+* akustilist relva ajaloolise või kultuurilise sündmuse etendamiseks;
 
 ## 15. Milliseid relvi ja millistel otstarvetel võib soetada 21-aastane ja vanem eesti kodanik ?
-lisaks 18-aastasele lubatutele veel kombineeritud või vintraudset püssi, püstolit või revolvrit turvalisuse tagamiseks.
+lisaks 18-aastasele lubatutele veel turvalisuse tagamiseks
+* kombineeritud või vintraudset püssi, 
+* püstolit või revolvrit.
 
 ## 16. Relvade kollektsiooni asutamine ja selleks õigust omavad isikud.
 Kollektsiooni asutada ja pidada sooviv füüsiline isik esitab taotluse Politsei- ja Piirivalveametile. 
@@ -247,7 +257,7 @@ dokumendile kantud andmetele.
 
 ## 25. Relva registreerimise ajal relva hoidmine.
 Relva registreerimise ajaks võib relvaomanik või -valdaja anda selle hoiule politseisse või hoida seda oma elu- või 
-asukohas käesoleva seadusega kehtestatud korras ja tingimustel.
+asukohas Relvaseadusega kehtestatud korras ja tingimustel.
 Oma elu- või asukohas peab olema relv kohas, kus on välistatud sellele juurdepääs kõrvalisele isikule ning relva 
 hoidmine selles kohas peab olema ümbruskonnale ohutu. Tulirelva puhul peab seda hoidma tühjaks laetuna relvakapis .
 
@@ -286,7 +296,7 @@ kuriteos, mis pandi toime relvaga või sellega ähvardades, või karistusseadust
 251, 255, 256 või 424 sätestatud kuriteos;
 9. on soetamisloa või relvaloa taotlemisel tahtlikult esitanud valeandmeid, millel on oluline tähtsus loa andmise 
 küsimuse otsustamisel;
-10. ei oma Relvaseaduses ettenähtud tingimusi relva ja laskemoona hoidmiseks;
+10. ei Oma Relvaseaduses ettenähtud tingimusi relva ja laskemoona hoidmiseks;
 11. on väärteomenetluse korras karistatud mootorsõiduki, maastikusõiduki või trammi juhtimise eest lubatud 
 alkoholipiirmäära ületades või õhusõiduki, veesõiduki või raudteeveeremi juhtimise eest alkoholijoobes;
 12. on väärteomenetluse korras karistatud narkootilise või psühhotroopse aine väikeses koguses ebaseadusliku käitlemise eest;
