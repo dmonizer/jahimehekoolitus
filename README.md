@@ -6,7 +6,7 @@ Kasutamisel palun viidata nii sellele repositoryle siin kui originaalautoritele 
 Pildid valitud kõik vähemalt Creative Commons share-alike või lubavama litsentsiga
 
 ## Lisamaterjalid
-
+[PPA meditsiinikoolituse materjal](https://www2.politsei.ee/dotAsset/557499.pdf)
 [Naiskodukaitse relvakoolitus: meditsiin](https://www.naiskodukaitse.ee/Materjale_relvaatesteerimise_meditsiiniulesandeks_1225)
 
 ## Vajalikud sammud teekonnal jahimeheks
