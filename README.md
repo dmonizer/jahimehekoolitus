@@ -33,6 +33,6 @@ Pildid valitud kõik vähemalt Creative Commons share-alike või lubavama litsen
 
 
 ### Relvaostuks vajalikud lisasammud
-1. Relvaostu loa taotlemine ( https://www.politsei.ee/et/relvalubadega-seotud-blanketid )
-2. Relva ost
+1. Relvaostu loa taotlemine [Relvaloa iseeteeninduses](https://relvataotlus.politsei.ee/)
+2. Relva ost (ID kaart kaasa!)
 
