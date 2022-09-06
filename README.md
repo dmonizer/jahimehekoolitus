@@ -26,8 +26,8 @@ Pildid valitud kõik vähemalt Creative Commons share-alike või lubavama litsen
 3. Esmaabikoolituse (16h) tõend 
 4. Relva hoiukoha/kohtade ettevalmistus ( Sertifitseeritud relvakapp - rangelt soovituslik ka 1 relva korral )
 5. Relvaloa eksam ( https://www.politsei.ee/et/relvaeksam )
-   5.1. Teooria   
-   5.2. Laskekatse (vastavalt soovitavale relvale - püssi (nii sile- kui vintraudne) puhul [Toz-8](https://en.wikipedia.org/wiki/TOZ_rifle) LR22 relvaga, püstol Glock 17)
+    5.1. Teooria   
+    5.2. Laskekatse (vastavalt soovitavale relvale - püssi (nii sile- kui vintraudne) puhul [Toz-8](https://en.wikipedia.org/wiki/TOZ_rifle) LR22 relvaga, püstol Glock 17)
   
 
 
